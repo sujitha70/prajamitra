@@ -1,0 +1,3642 @@
+[
+  {
+    "id": "ap-scheme-1",
+    "scheme_number": 1,
+    "category": "General Welfare",
+    "name": "NTR Bharosa – Old Age Pension (OAP)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Society for Elimination of Rural Poverty (SERP) / Mission for Elimination of Poverty in Municipal Areas (MEPMA)",
+    "benefits": "₹4,000 per month via Direct Benefit Transfer (DBT).",
+    "eligibility": "Permanent resident of Andhra Pradesh aged 60 years or above; BPL family with AP Rice Card; monthly family income ≤ ₹10,000 (rural) or ≤ ₹12,000 (urban); wet land ≤ 3 acres or dry land ≤ 10 acres; no government employee, income taxpayer, or four-wheeler owner in the family.",
+    "documents_required": [
+      "Aadhaar Card",
+      "AP Rice Card",
+      "Age Proof (Voter ID / Birth Certificate / SSC Memo)",
+      "Bank Passbook (Aadhaar-linked)."
+    ],
+    "how_to_apply": "Visit the nearest Grama Sachivalayam (rural) or Ward Sachivalayam (urban), submit the application form with documents to the Welfare & Education Assistant, and complete biometric e-KYC verification.",
+    "official_website": "https://sspensions.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=NTR%20Bharosa%20Pension",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-2",
+    "scheme_number": 2,
+    "category": "General Welfare",
+    "name": "NTR Bharosa – Widow & Single Woman Pension",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "SERP / MEPMA, Department of Panchayat Raj & Rural Development",
+    "benefits": "₹4,000 per month via DBT.",
+    "eligibility": "Widows aged 18+ residing in AP; separated/deserted women aged 35+ (separated > 1 year); unmarried women aged 30+ (rural) or 35+ (urban); BPL family with valid AP Rice Card; not receiving any other government pension.",
+    "documents_required": [
+      "Aadhaar Card",
+      "AP Rice Card",
+      "Husband's Death Certificate (for widows) or Separation/Unmarried Certificate",
+      "Bank Passbook (Aadhaar-linked)."
+    ],
+    "how_to_apply": "Apply offline at the nearest Grama/Ward Sachivalayam with the required documents and complete biometric verification.",
+    "official_website": "https://sspensions.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Widow%20Pension%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-3",
+    "scheme_number": 3,
+    "category": "General Welfare",
+    "name": "NTR Bharosa – Persons with Disabilities (PwD) Pension",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Department for Welfare of Differently Abled, Transgender & Senior Citizens (via SERP/MEPMA)",
+    "benefits": "₹6,000 per month for 40%+ disability; up to ₹15,000 per month for fully bedridden or severe multi-deformity beneficiaries.",
+    "eligibility": "Permanent resident of Andhra Pradesh with no age limit; minimum 40% disability certified by a valid SADAREM certificate; BPL household.",
+    "documents_required": [
+      "Aadhaar Card",
+      "SADAREM Disability Certificate",
+      "AP Rice Card",
+      "Bank Passbook (Aadhaar-linked)."
+    ],
+    "how_to_apply": "Obtain a SADAREM assessment certificate at a designated government hospital, then submit the pension application at your Grama/Ward Sachivalayam.",
+    "official_website": "https://sspensions.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Disabled%20Pension%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-4",
+    "scheme_number": 4,
+    "category": "General Welfare",
+    "name": "NTR Bharosa – Chronic Disease (CKDU / Thalassemia) Pension",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "SERP / MEPMA & Health, Medical and Family Welfare Department",
+    "benefits": "₹10,000 per month for dialysis/CKDU/thalassemia/sickle cell/hemophilia patients; ₹5,000 per month for non-dialysis stage 3–5 CKD patients.",
+    "eligibility": "AP resident undergoing regular dialysis or treatment for notified chronic diseases at government or NTR Vaidya Seva network hospitals.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Medical/Dialysis Certificate from Government Hospital",
+      "AP Rice Card",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Submit the medical certificate and application at the Grama/Ward Sachivalayam for verification by the District Medical & Health Officer (DMHO).",
+    "official_website": "https://sspensions.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Chronic%20Disease%20Pension%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-5",
+    "scheme_number": 5,
+    "category": "General Welfare",
+    "name": "NTR Bharosa – Weaver, Toddy Tapper & Fisherman Pension",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "SERP / MEPMA (with Handlooms, Excise & Fisheries Departments)",
+    "benefits": "₹4,000 per month via DBT.",
+    "eligibility": "Permanent AP resident aged 50 years or above belonging to weaving, toddy tapping, or fishing communities; BPL family; not availing another social security pension.",
+    "documents_required": [
+      "Aadhaar Card",
+      "AP Rice Card",
+      "Age Proof",
+      "Community/Trade/Cooperative Society ID",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Submit the application and trade proof at the nearest Grama/Ward Sachivalayam for verification by the MPDO/Municipal Commissioner.",
+    "official_website": "https://sspensions.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Weaver%20Pension%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-6",
+    "scheme_number": 6,
+    "category": "General Welfare",
+    "name": "NTR Bharosa – Transgender, Cobbler & Dappu Artists Pension",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Department for Welfare of Differently Abled, Transgender & Senior Citizens / SERP",
+    "benefits": "₹4,000 per month via DBT.",
+    "eligibility": "Eligible transgender persons, traditional cobblers, and Dappu artists aged 18+ domiciled in Andhra Pradesh from economically weaker households.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Transgender ID Certificate (or Trade/Artist recognition proof)",
+      "AP Rice Card",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply at the local Grama/Ward Sachivalayam with supporting identity and community certificates.",
+    "official_website": "https://sspensions.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Transgender%20Pension%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-7",
+    "scheme_number": 7,
+    "category": "General Welfare",
+    "name": "Thalliki Vandanam Scheme",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Department of School Education, Government of Andhra Pradesh",
+    "benefits": "₹15,000 per year per eligible school-going child (₹13,000 credited to the mother's bank account + ₹2,000 toward school maintenance); no cap on the number of children per family.",
+    "eligibility": "Mothers or recognized guardians of children studying in Classes 1 to 12 (Intermediate) in recognized schools/junior colleges in AP; BPL/Rice Card household; minimum 75% attendance; electricity usage < 300 units/month; no 4-wheeler or government job.",
+    "documents_required": [
+      "Mother's Aadhaar Card",
+      "Child's Aadhaar Card",
+      "AP Rice Card",
+      "School Enrollment/Bonafide ID",
+      "Mother's NPCI-linked Bank Passbook."
+    ],
+    "how_to_apply": "Schools upload student admission and attendance data to the School Education portal; mothers verify e-KYC and eligibility at the Grama/Ward Sachivalayam.",
+    "official_website": "https://gsws-nbm.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Thalliki%20Vandanam",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-8",
+    "scheme_number": 8,
+    "category": "General Welfare",
+    "name": "Annadata Sukhibhava – PM-KISAN",
+    "state_or_central": "Joint (State of Andhra Pradesh + Central Government)",
+    "department": "Department of Agriculture, Government of Andhra Pradesh",
+    "benefits": "₹20,000 per year combined financial assistance (₹14,000 from AP State + ₹6,000 from Central PM-KISAN) transferred in 3 installments via DBT.",
+    "eligibility": "Eligible landholding farmer households in Andhra Pradesh (registered in Webland) and eligible CCRC tenant farmers; excludes income taxpayers, serving/retired government employees, and professionals.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Pattadar Passbook / Land Record (Webland) or Crop Cultivator Rights Card (CCRC)",
+      "Aadhaar-linked Bank Passbook."
+    ],
+    "how_to_apply": "Verify land records with the Village Revenue Officer (VRO), visit the nearest Rythu Seva Kendram (RSK) or Grama Sachivalayam, and complete e-KYC and PM-KISAN registration.",
+    "official_website": "https://annadathasukhibhava.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pm-kisan",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-9",
+    "scheme_number": 9,
+    "category": "General Welfare",
+    "name": "Deepam 2.0 (Free LPG Cylinders Scheme)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Consumer Affairs, Food and Civil Supplies Department, Andhra Pradesh",
+    "benefits": "3 free domestic LPG cylinder refills per year (1 cylinder every 4 months), with the subsidy reimbursed directly to the beneficiary's bank account within 48 hours of delivery.",
+    "eligibility": "Eligible AP Rice Cardholder households with an active domestic LPG connection linked to Aadhaar and bank account.",
+    "documents_required": [
+      "AP Rice Card",
+      "Aadhaar Card",
+      "LPG Consumer Book",
+      "Aadhaar-linked Bank Passbook."
+    ],
+    "how_to_apply": "Ensure e-KYC is updated at your LPG agency, book a cylinder refill as usual, pay on delivery, and receive automatic subsidy reimbursement into your linked bank account.",
+    "official_website": "https://civilsupplies.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Deepam%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-10",
+    "scheme_number": 10,
+    "category": "General Welfare",
+    "name": "Stree Shakti (Free Bus Travel for Women)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Andhra Pradesh State Road Transport Corporation (APSRTC), Transport Department",
+    "benefits": "100% free (zero-fare) bus travel across Andhra Pradesh in Pallevelugu, Ultra Pallevelugu, City Ordinary, Metro Express, and Express APSRTC buses.",
+    "eligibility": "All women, girls, and transgender persons domiciled in Andhra Pradesh (no income limit); excludes interstate and luxury/AC services.",
+    "documents_required": [
+      "Any valid Government Photo ID showing Andhra Pradesh domicile (Aadhaar Card",
+      "Voter ID",
+      "Driving License",
+      "or Ration Card)."
+    ],
+    "how_to_apply": "No prior registration required—board an eligible APSRTC bus within AP, show your domicile ID to the conductor, and collect a zero-fare ticket.",
+    "official_website": "https://www.apsrtc.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Stree%20Shakti%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-11",
+    "scheme_number": 11,
+    "category": "General Welfare",
+    "name": "Dr. NTR Vaidya Seva (Universal Health Policy)",
+    "state_or_central": "Joint (State of Andhra Pradesh + Ayushman Bharat PM-JAY)",
+    "department": "Dr. NTR Vaidya Seva Trust, Health, Medical & Family Welfare Department",
+    "benefits": "Cashless medical treatment up to ₹25 Lakh per family per year covering 3,257 procedures across 31 specialties at empanelled network hospitals, plus post-discharge medicines.",
+    "eligibility": "All eligible AP families (Rice Cardholders and families under the Universal Health Policy framework; insurers cover up to ₹2.5 Lakh and NTR Vaidya Seva Trust covers above that up to ₹25 Lakh).",
+    "documents_required": [
+      "Aadhaar Card",
+      "AP Rice Card or Income Certificate",
+      "NTR Vaidya Seva / Ayushman Health Card."
+    ],
+    "how_to_apply": "Visit any empanelled network hospital and approach the Aarogyamitra helpdesk with your Aadhaar and Rice/Health Card for cashless pre-authorization.",
+    "official_website": "https://drntrvaidyaseva.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/ab-pmjay",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-12",
+    "scheme_number": 12,
+    "category": "General Welfare",
+    "name": "JnanaBhumi Post-Matric Scholarship (RTF – Tuition Fee)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Social Welfare, Tribal Welfare, BC Welfare, EBC & Minority Welfare Departments",
+    "benefits": "100% Reimbursement of Tuition Fee (RTF) and prescribed college fees for eligible higher education courses.",
+    "eligibility": "SC, ST, BC, EBC, Kapu, and Minority students domiciled in AP admitted under Convener Quota in ITI, Polytechnic, Degree, Engineering, Medicine, or PG courses; annual family income ≤ ₹2.5 Lakh; minimum 75% attendance.",
+    "documents_required": [
+      "Student & Mother Aadhaar Card",
+      "AP Rice Card",
+      "Caste Certificate",
+      "Income Certificate",
+      "CET Allotment Order",
+      "Previous Marks Memos",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Register through your college scholarship cell on the JnanaBhumi portal and complete biometric authentication at the college or Grama/Ward Sachivalayam.",
+    "official_website": "https://jnanabhumi.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Post%20Matric%20Scholarship%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-13",
+    "scheme_number": 13,
+    "category": "General Welfare",
+    "name": "JnanaBhumi Post-Matric Scholarship (MTF – Maintenance Fee)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Social Welfare, Tribal Welfare, BC Welfare, EBC & Minority Welfare Departments",
+    "benefits": "Annual maintenance assistance (₹10,000 for ITI, ₹15,000 for Polytechnic, ₹20,000 for Degree/PG/Professional courses) for hostel and mess expenses.",
+    "eligibility": "AP domiciled SC/ST/BC/EBC/Kapu/Minority students admitted under Convener Quota with annual family income ≤ ₹2.5 Lakh and minimum 75% attendance.",
+    "documents_required": [
+      "Student & Mother Aadhaar Card",
+      "AP Rice Card",
+      "Caste & Income Certificates",
+      "College Admission Proof",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply online through the JnanaBhumi portal via your college and complete biometric verification.",
+    "official_website": "https://jnanabhumi.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Maintenance%20Fee%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-14",
+    "scheme_number": 14,
+    "category": "General Welfare",
+    "name": "Pre-Matric Scholarships (SC / ST / BC / Disabled)",
+    "state_or_central": "Joint (State of Andhra Pradesh + Central Government)",
+    "department": "Social Welfare, Tribal Welfare, BC Welfare & Differently Abled Welfare Departments",
+    "benefits": "Annual academic stipend and book/hostel grant for school-going students.",
+    "eligibility": "SC/ST students in Classes 5–10 (family income ≤ ₹2 Lakh/year) and BC/EBC/Disabled students in Classes 5–10 (family income ≤ ₹1 Lakh/year) with 75% attendance.",
+    "documents_required": [
+      "Student Aadhaar Card",
+      "Caste Certificate",
+      "Income Certificate",
+      "School Study Certificate",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Submit application through the school headmaster on the JnanaBhumi portal.",
+    "official_website": "https://jnanabhumi.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Pre%20Matric%20Scholarship%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-15",
+    "scheme_number": 15,
+    "category": "General Welfare",
+    "name": "Sarvepalli Radhakrishnan Vidyarthi Mitra",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Department of School Education, Government of Andhra Pradesh",
+    "benefits": "Free student kit containing 3 pairs of uniforms, textbooks, notebooks, school bag, belt, shoes, socks, and a dictionary.",
+    "eligibility": "All students enrolled in Classes 1 to 10 in Government, Zilla Parishad, Municipal, and Aided schools in Andhra Pradesh.",
+    "documents_required": [
+      "School Enrollment ID",
+      "Child Aadhaar Card."
+    ],
+    "how_to_apply": "Automatic distribution at the start of the academic year through the respective government school—no separate application required.",
+    "official_website": "https://cse.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Vidyarthi%20Mitra%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-16",
+    "scheme_number": 16,
+    "category": "General Welfare",
+    "name": "Dokka Seethamma Mid-Day Meal Scheme",
+    "state_or_central": "Joint (State of Andhra Pradesh + PM POSHAN)",
+    "department": "Department of School Education & Board of Intermediate Education, AP",
+    "benefits": "Free nutritious hot cooked lunch (including eggs, chikki, and ragi java) on all working days.",
+    "eligibility": "All students studying in Government schools (Classes 1–10) and 475 Government Junior Colleges (Intermediate 1st & 2nd year) across Andhra Pradesh.",
+    "documents_required": [
+      "School / Government Junior College Enrollment."
+    ],
+    "how_to_apply": "Automatically provided to all attending students at their school or government junior college.",
+    "official_website": "https://cse.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pm-poshan",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-17",
+    "scheme_number": 17,
+    "category": "General Welfare",
+    "name": "NTR Vidyonnathi (Civil Services Coaching Scheme)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Social Welfare, BC Welfare, Tribal Welfare, Minority & Brahmin Welfare Departments",
+    "benefits": "Full sponsorship for UPSC Civil Services coaching at reputed institutes along with a monthly maintenance stipend.",
+    "eligibility": "AP domiciled graduates (SC/ST/BC/EBC/Kapu/Minority/Brahmin) with annual family income ≤ ₹6 Lakh who qualify through the state screening test.",
+    "documents_required": [
+      "Degree Certificate",
+      "Caste Certificate",
+      "Income Certificate",
+      "Aadhaar Card",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply online on the JnanaBhumi portal when the annual NTR Vidyonnathi notification is released and appear for the entrance test.",
+    "official_website": "https://jnanabhumi.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=NTR%20Vidyonnathi",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-18",
+    "scheme_number": 18,
+    "category": "General Welfare",
+    "name": "Ambedkar Overseas Vidyanidhi / NTR Videshi Vidyadharana",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Social Welfare, Tribal Welfare, BC, EBC, Minority & Brahmin Welfare Departments",
+    "benefits": "Financial grant of ₹10 Lakh to ₹15 Lakh for PG/PhD studies abroad, plus one-way airfare and visa fee reimbursement.",
+    "eligibility": "AP domiciled SC/ST/BC/EBC/Minority/Kapu/Brahmin graduates aged ≤ 35 years, family income ≤ ₹6 Lakh/year, with confirmed admission in an accredited foreign university.",
+    "documents_required": [
+      "Passport",
+      "Foreign University Offer Letter",
+      "Degree Marks Memos",
+      "GRE/IELTS/TOEFL Score",
+      "Caste & Income Certificates",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Register online on the JnanaBhumi / AP ePass portal, upload admission and income documents, and attend committee verification.",
+    "official_website": "https://jnanabhumi.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Overseas%20Vidya%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-19",
+    "scheme_number": 19,
+    "category": "General Welfare",
+    "name": "Best Available Schools (BAS) Scheme",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Social Welfare & Tribal Welfare Departments, AP",
+    "benefits": "Free quality education, books, uniforms, and residential hostel facilities in reputed private schools.",
+    "eligibility": "Meritorious SC/ST students entering Class 1, 5, or 8 from BPL families (annual income ≤ ₹1 Lakh).",
+    "documents_required": [
+      "Birth Certificate",
+      "Caste Certificate",
+      "Income Certificate",
+      "AP Rice Card",
+      "Previous Class Marks Memo."
+    ],
+    "how_to_apply": "Apply through the District Social/Tribal Welfare Office or JnanaBhumi portal; selection is done via lottery/merit list.",
+    "official_website": "https://jnanabhumi.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Best%20Available%20Schools%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-20",
+    "scheme_number": 20,
+    "category": "General Welfare",
+    "name": "Veda Vyasa Scheme for Vedic Education",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Andhra Pradesh Brahmin Welfare Corporation (APBWC)",
+    "benefits": "Financial assistance ranging from ₹12,000 to ₹36,000 per year depending on the Vedic course.",
+    "eligibility": "Brahmin community students aged 8 to 19 years whose parents reside in AP and who are pursuing full-time Vedic studies (Rig, Yajur, Sama, Atharva Veda, or Smartham) in recognized Veda Pathashalas.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Brahmin Caste Certificate",
+      "Residence Certificate",
+      "Birth Certificate",
+      "Study Certificate from Veda Pathashala."
+    ],
+    "how_to_apply": "Visit the AP Brahmin Welfare Corporation portal, go to Schemes -> Registration, fill out the form, and upload documents.",
+    "official_website": "https://andhrabrahmin.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Veda%20Vyasa%20Scheme",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-21",
+    "scheme_number": 21,
+    "category": "General Welfare",
+    "name": "Divyang Shakti (Free Bus Travel for Persons with Disabilities)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Transport Department / APSRTC",
+    "benefits": "100% free bus travel for PwDs across 21 recognized disability categories and 50% fare concession for one escort in eligible APSRTC buses.",
+    "eligibility": "Permanent resident of Andhra Pradesh with 40% or more disability certified under the RPwD Act.",
+    "documents_required": [
+      "SADAREM Certificate or UDID Card",
+      "Aadhaar Card."
+    ],
+    "how_to_apply": "Apply for the APSRTC Divyang bus pass online or at APSRTC bus depot counters, or present valid UDID/SADAREM ID as per APSRTC guidelines.",
+    "official_website": "https://www.apsrtc.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Divyang%20Shakti%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-22",
+    "scheme_number": 22,
+    "category": "General Welfare",
+    "name": "Zero Poverty – P4 (Bangaru Kutumbam Initiative)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Planning Department & Village/Ward Secretariats (GSWS)",
+    "benefits": "Customized financial, education, housing, skill, and livelihood upliftment support connecting vulnerable families (*Bangaru Kutumbams*) with mentors/donors (*Margadarsis*).",
+    "eligibility": "Bottom-of-the-pyramid vulnerable households in AP identified through Gram Sabha/Ward Sabha verification (no government employee, non-taxpayer, wet land ≤ 2 acres or total land ≤ 5 acres).",
+    "documents_required": [
+      "Aadhaar Card",
+      "GSWS Household Survey ID",
+      "AP Rice Card."
+    ],
+    "how_to_apply": "Families are identified via Grama/Ward Sabha surveys; citizens can also check or update household details at their Grama/Ward Sachivalayam.",
+    "official_website": "https://zeropovertyp4.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Zero%20Poverty%20P4%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-23",
+    "scheme_number": 23,
+    "category": "General Welfare",
+    "name": "Chandranna Bima (Unorganised Workers Insurance)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Labour Department & SERP, Government of Andhra Pradesh",
+    "benefits": "₹5 Lakh for accidental death or total permanent disability; ₹3.62 Lakh for partial disability; ₹1–2 Lakh for natural death (age 18–50).",
+    "eligibility": "Unorganised sector primary breadwinner in AP from a BPL/Rice Card family aged 18 to 70 years (18–50 for natural death).",
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Passbook",
+      "Nominee Aadhaar",
+      "Death Certificate / FIR / Disability Certificate (at the time of claim)."
+    ],
+    "how_to_apply": "Enroll or verify nominee details through the Welfare Assistant at the Grama/Ward Sachivalayam.",
+    "official_website": "https://gsws-nbm.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Chandranna%20Bima",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-24",
+    "scheme_number": 24,
+    "category": "General Welfare",
+    "name": "Kisan Credit Card (KCC)",
+    "state_or_central": "Central (Implemented across Andhra Pradesh)",
+    "department": "Ministry of Agriculture & Farmers Welfare (via NABARD & Banks)",
+    "benefits": "Short-term collateral-free crop loans up to ₹1.6 Lakh (higher with collateral) at an effective 4% interest rate (with 3% prompt repayment subvention) for seeds, fertilizers, and allied activities.",
+    "eligibility": "All individual/joint owner-cultivators, tenant farmers, oral lessees, sharecroppers, SHGs, and animal husbandry/fisheries farmers.",
+    "documents_required": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Land Ownership Record (Pattadar Passbook / 1B) or Tenancy Proof (CCRC)",
+      "Passport Size Photos."
+    ],
+    "how_to_apply": "Apply at any commercial, regional rural, or cooperative bank branch, or online via the PM-KISAN / JanSamarth portal.",
+    "official_website": "https://www.jansamarth.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/kcc",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-25",
+    "scheme_number": 25,
+    "category": "General Welfare",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY – AP Crop Insurance)",
+    "state_or_central": "Joint (Central + State of Andhra Pradesh)",
+    "department": "Department of Agriculture, AP & Ministry of Agriculture, GoI",
+    "benefits": "Comprehensive crop insurance payout against yield loss due to drought, flood, cyclone, pests, or unseasonal rain at nominal farmer premium (1.5%–2% or state-subsidized).",
+    "eligibility": "All loanee and non-loanee farmers and CCRC tenant farmers cultivating notified crops in AP who complete e-Crop booking before the seasonal cut-off date.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Record / CCRC",
+      "e-Crop Receipt",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Complete e-Crop registration at your Rythu Seva Kendram (RSK) or enroll through your bank/CSC/PMFBY portal before the crop cut-off date.",
+    "official_website": "https://pmfby.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmfby",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-26",
+    "scheme_number": 26,
+    "category": "General Welfare",
+    "name": "Sunna Vaddi Panta Runalu (Zero-Interest Crop Loans)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Department of Agriculture, Government of Andhra Pradesh",
+    "benefits": "100% interest reimbursement (0% effective interest) on short-term crop loans up to ₹1 Lakh.",
+    "eligibility": "Small and marginal AP farmers (wet land ≤ 5 acres or dry land ≤ 10 acres) and CCRC tenant farmers who complete e-Crop booking and repay their crop loan on or before the due date.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Pattadar Passbook / CCRC",
+      "Crop Loan Account Passbook",
+      "Loan Repayment Receipt."
+    ],
+    "how_to_apply": "Repay your crop loan on time at your bank; banks upload repayment data to the Agriculture portal for direct interest reimbursement.",
+    "official_website": "https://apagrisnet.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Sunna%20Vaddi%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-27",
+    "scheme_number": 27,
+    "category": "General Welfare",
+    "name": "NTR Jala Siri (Free Borewell & Irrigation Scheme)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Department of Rural Development / Agriculture, AP",
+    "benefits": "100% free borewell drilling and, where eligible, pump-set subsidy for reliable irrigation.",
+    "eligibility": "Small and marginal AP farmers (2.5 to 5 acres contiguous land) without an existing borewell, subject to hydrogeological survey approval.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Pattadar Passbook",
+      "1B/Adangal",
+      "Caste Certificate",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Submit application at the Grama Sachivalayam or Rythu Seva Kendram for joint hydrogeological inspection and sanction.",
+    "official_website": "https://rd.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Jala%20Siri%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-28",
+    "scheme_number": 28,
+    "category": "General Welfare",
+    "name": "Agricultural Input Subsidy (Drought & Flood Relief)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Disaster Management & Agriculture Department, AP",
+    "benefits": "Direct per-hectare financial compensation (₹8,500 to ₹17,000/hectare depending on crop type) for ≥ 33% crop damage.",
+    "eligibility": "Farmers in AP whose crops suffer ≥ 33% damage due to drought, cyclone, heavy rain, or flood as verified in e-Crop and joint enumeration.",
+    "documents_required": [
+      "Aadhaar Card",
+      "e-Crop Booking ID",
+      "Pattadar Passbook / CCRC",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Ensure e-Crop booking is done; after calamity, verify your name in the social audit list displayed at the Rythu Seva Kendram.",
+    "official_website": "https://apagrisnet.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Input%20Subsidy%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-29",
+    "scheme_number": 29,
+    "category": "General Welfare",
+    "name": "Farm Mechanization & Custom Hiring Centres Subsidy",
+    "state_or_central": "Joint (State of Andhra Pradesh + SMAM Central)",
+    "department": "Department of Agriculture, Government of Andhra Pradesh",
+    "benefits": "40% to 50% subsidy on agricultural implements (power tillers, sprayers, rotavators, harvesters) and tractors for farmer groups.",
+    "eligibility": "Individual AP farmers (for implements) and registered Farmer Producer Organizations (FPOs) / Rythu Mithra groups (for Custom Hiring Centres).",
+    "documents_required": [
+      "Aadhaar Card",
+      "Pattadar Passbook",
+      "Empanelled Dealer Quotation",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply at the Rythu Seva Kendram (RSK) or through the AP Agriculture Department portal during the subsidy window.",
+    "official_website": "https://apagrisnet.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/smam",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-30",
+    "scheme_number": 30,
+    "category": "General Welfare",
+    "name": "Subsidized Seed & Soil Health Card Programme",
+    "state_or_central": "Joint (State of Andhra Pradesh + Central)",
+    "department": "Department of Agriculture (D-Krishi), AP",
+    "benefits": "50%–60% subsidy on certified paddy, groundnut, pulse, and green manure seeds, plus free soil health testing and micronutrient subsidies.",
+    "eligibility": "All cultivating farmers in Andhra Pradesh verified via Aadhaar and Webland/CCRC.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Farmer ID / Land Record."
+    ],
+    "how_to_apply": "Register your seed requirement at the Rythu Seva Kendram (RSK) via biometric authentication on the D-Krishi portal.",
+    "official_website": "https://apagrisnet.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/shc",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-31",
+    "scheme_number": 31,
+    "category": "General Welfare",
+    "name": "Pasu Nasta Parihara Padhakam (Livestock Loss Compensation)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Animal Husbandry Department, Government of Andhra Pradesh",
+    "benefits": "₹30,000 per high-yielding cow/buffalo; ₹15,000 per indigenous cattle; ₹6,000 per sheep/goat/pig in case of accidental or disease-related death.",
+    "eligibility": "Livestock farmers in AP whose ear-tagged animals die due to contagious disease, lightning, snakebite, or natural calamities.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Veterinary Post-Mortem Certificate",
+      "Ear-Tag ID",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Inform the local Veterinary Assistant at the Rythu Seva Kendram immediately for post-mortem verification and claim upload.",
+    "official_website": "https://ahd.aptonline.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Pasu%20Nasta%20Parihara",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-32",
+    "scheme_number": 32,
+    "category": "General Welfare",
+    "name": "Matsyakara Sevalo (Fishing Ban Relief & Diesel Subsidy)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Department of Fisheries, Government of Andhra Pradesh",
+    "benefits": "₹20,000 per year financial relief during the 61-day marine fishing ban, ₹9/litre diesel subsidy, and ₹10 Lakh accidental ex-gratia.",
+    "eligibility": "Registered AP marine fishermen aged 21–60 years (excludes mechanized boat owners and government pensioners).",
+    "documents_required": [
+      "Aadhaar Card",
+      "Fisheries Department ID Card",
+      "Boat Registration Certificate",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Verify beneficiary details with the Village Fisheries Assistant at the Grama Sachivalayam before the annual ban period.",
+    "official_website": "https://fisheries.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Matsyakara%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-33",
+    "scheme_number": 33,
+    "category": "General Welfare",
+    "name": "NTR Baby Kit Scheme",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Health, Medical & Family Welfare Department, AP",
+    "benefits": "Free newborn care kit worth ₹1,410 containing 14 essentials (baby bed with mosquito net, clothes, towels, nappies, oil, soap, powder, shampoo, rattle).",
+    "eligibility": "Mothers domiciled in Andhra Pradesh who deliver a live baby in any Government Hospital, PHC, CHC, or Government Medical College.",
+    "documents_required": [
+      "Mother's Aadhaar Card",
+      "MCP/POSHAN Card",
+      "Government Hospital Delivery/Discharge Sheet."
+    ],
+    "how_to_apply": "Distributed free of cost at the government hospital before discharge—no separate application needed.",
+    "official_website": "https://hmfw.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=NTR%20Baby%20Kit",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-34",
+    "scheme_number": 34,
+    "category": "General Welfare",
+    "name": "Stree Nidhi SHG Micro-Credit Loans",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Stree Nidhi Credit Cooperative Federation (SERP / MEPMA)",
+    "benefits": "Collateral-free, low-interest livelihood loans up to ₹1 Lakh–₹3 Lakh disbursed within 48 hours via mobile app.",
+    "eligibility": "Active women members of Grade A/B registered Self-Help Groups (SHGs/DWCRA) in rural or urban AP with a clean repayment record.",
+    "documents_required": [
+      "Aadhaar Card",
+      "SHG Membership ID",
+      "Group Resolution",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Submit a loan request through your Village Organization Assistant (VOA) or Slum Level Federation (SLF) resource person.",
+    "official_website": "https://streenidhi.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Stree%20Nidhi%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-35",
+    "scheme_number": 35,
+    "category": "General Welfare",
+    "name": "Sunna Vaddi for SHG Women (Zero-Interest SHG Loans)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "SERP / MEPMA, Government of Andhra Pradesh",
+    "benefits": "100% interest reimbursement on SHG bank-linkage loans up to ₹5 Lakh.",
+    "eligibility": "Active BPL women Self-Help Groups in AP maintaining regular monthly loan repayments (non-NPA accounts).",
+    "documents_required": [
+      "SHG Bank Loan Passbook",
+      "Member Aadhaar Cards",
+      "AP Rice Cards."
+    ],
+    "how_to_apply": "Automatically processed through bank-SHG linkage data verified by SERP/MEPMA; confirm account status with your VOA/CRP.",
+    "official_website": "https://serp.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Sunna%20Vaddi%20SHG",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-36",
+    "scheme_number": 36,
+    "category": "General Welfare",
+    "name": "Bala Sanjeevani / Sampoorna Poshana (Maternal & Child Nutrition)",
+    "state_or_central": "Joint (State of Andhra Pradesh + ICDS/Mission Poshan 2.0)",
+    "department": "Women Development & Child Welfare Department, AP",
+    "benefits": "Free take-home nutritious food rations, milk, eggs, and hot cooked meals at Anganwadi Centres.",
+    "eligibility": "Pregnant women, lactating mothers, and children aged 6 months to 6 years registered at AP Anganwadi centres.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Mother & Child Protection (MCP) Card",
+      "Anganwadi Registration."
+    ],
+    "how_to_apply": "Register at your nearest Anganwadi Centre with your Aadhaar and MCP card.",
+    "official_website": "https://wdcw.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/poshan-abhiyaan",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-37",
+    "scheme_number": 37,
+    "category": "General Welfare",
+    "name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+    "state_or_central": "Central (Implemented in Andhra Pradesh)",
+    "department": "Ministry of Women & Child Development / AP WDCW Dept",
+    "benefits": "₹5,000 for the first live child and ₹6,000 for the second child (if a girl) via DBT for maternity nutrition and wage compensation.",
+    "eligibility": "Pregnant and lactating mothers aged 19+ from economically weaker/BPL families (excludes regular government employees).",
+    "documents_required": [
+      "Mother's Aadhaar Card",
+      "MCP Card",
+      "Institutional Delivery Proof",
+      "Aadhaar-linked Bank Passbook."
+    ],
+    "how_to_apply": "Register at your local Anganwadi Centre or online via the PMMVY citizen portal.",
+    "official_website": "https://pmmvy.wcd.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmmvy",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-38",
+    "scheme_number": 38,
+    "category": "General Welfare",
+    "name": "NTR Vaidya Pariksha (Free Diagnostic Tests)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Health, Medical & Family Welfare Department, AP",
+    "benefits": "Free diagnostic lab tests (60+ blood, urine, X-ray, ECG, and ultrasound tests) at government health facilities.",
+    "eligibility": "All patients visiting Government PHCs, CHCs, Area Hospitals, and District Hospitals in Andhra Pradesh.",
+    "documents_required": [
+      "Outpatient (OP) Slip",
+      "Aadhaar Card / Mobile Number."
+    ],
+    "how_to_apply": "Walk into any government hospital/PHC and get prescribed tests done free of charge at the in-house diagnostic hub.",
+    "official_website": "https://hmfw.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Free%20Diagnostics%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-39",
+    "scheme_number": 39,
+    "category": "General Welfare",
+    "name": "Talli Bidda Express (102 Free Post-Natal Drop-Back)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Health, Medical & Family Welfare Department (102 Call Centre)",
+    "benefits": "100% free GPS-enabled vehicle drop-back from government hospital to home for mother and newborn, plus follow-up checkup rides.",
+    "eligibility": "Any mother and newborn discharged after delivery at a Government hospital in Andhra Pradesh.",
+    "documents_required": [
+      "Hospital Discharge Summary."
+    ],
+    "how_to_apply": "Dial 102 or request booking through the hospital maternity ward staff at the time of discharge.",
+    "official_website": "https://hmfw.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Talli%20Bidda%20Express",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-40",
+    "scheme_number": 40,
+    "category": "General Welfare",
+    "name": "NTR Anna Canteens (₹5 Subsidized Meals)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Municipal Administration & Urban Development (MA&UD) Department",
+    "benefits": "Nutritious hot breakfast, lunch, and dinner at ₹5 per meal (₹15/day total) across 205+ urban canteens in AP.",
+    "eligibility": "Open to all citizens (daily wage workers, students, patients, urban poor—no income proof or ID required).",
+    "documents_required": [
+      "None (Walk-in token system)."
+    ],
+    "how_to_apply": "Visit any nearest Anna Canteen during meal timings and purchase a ₹5 meal token.",
+    "official_website": "https://cdma.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Anna%20Canteen%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-41",
+    "scheme_number": 41,
+    "category": "General Welfare",
+    "name": "NTR Housing Scheme / PMAY-G & PMAY-U",
+    "state_or_central": "Joint (State of Andhra Pradesh + Central PMAY)",
+    "department": "AP State Housing Corporation Ltd (APSHCL)",
+    "benefits": "Free house site patta plus ₹1.5 Lakh to ₹2.5 Lakh construction financial assistance (with additional top-up for SC/ST/BC beneficiaries).",
+    "eligibility": "Homeless BPL / Rice Card families in AP who do not own a pucca house or government house site anywhere in India.",
+    "documents_required": [
+      "Aadhaar Card",
+      "AP Rice Card",
+      "Income Certificate",
+      "Caste Certificate",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply at the Grama/Ward Sachivalayam or online via the PMAY / AP Housing portal during beneficiary surveys.",
+    "official_website": "https://housing.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmay-g",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-42",
+    "scheme_number": 42,
+    "category": "General Welfare",
+    "name": "AP TIDCO Affordable Urban Flats",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Andhra Pradesh Township & Infrastructure Development Corporation (APTIDCO)",
+    "benefits": "Subsidized G+3 urban apartments (300, 365, and 430 sq.ft); 300 sq.ft units heavily subsidized for eligible EWS beneficiaries with bank loan linkage.",
+    "eligibility": "Urban AP residents in EWS (monthly income ≤ ₹25,000) or LIG (₹25,001–₹50,000) without a pucca house.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Urban Residence Proof",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply through the Municipal Commissioner / Ward Sachivalayam when urban housing allotments open.",
+    "official_website": "https://aptidco.com/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmay-u",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-43",
+    "scheme_number": 43,
+    "category": "General Welfare",
+    "name": "Jagjeevan Jyothi (Free Electricity for SC / ST Households)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Energy Department (APSPDCL / APEPDCL / APCPDCL)",
+    "benefits": "100% free domestic electricity up to 200 units per month.",
+    "eligibility": "Eligible SC and ST domestic electricity consumers domiciled in Andhra Pradesh.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Electricity Service Connection Number."
+    ],
+    "how_to_apply": "Submit your Caste Certificate and electricity meter service number at the Grama/Ward Sachivalayam or local DISCOM office.",
+    "official_website": "https://www.apspdcl.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Jagjeevan%20Jyothi%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-44",
+    "scheme_number": 44,
+    "category": "General Welfare",
+    "name": "Free Electricity for Handloom & Powerloom Weavers",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Department of Handlooms and Textiles, AP",
+    "benefits": "Free electricity up to 200 units/month for handloom weaver households and up to 500 units/month for eligible powerloom units.",
+    "eligibility": "Active handloom weaver households and registered powerloom units operating in Andhra Pradesh.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Weaver ID / Loom Registration Certificate",
+      "Electricity Service Connection Number."
+    ],
+    "how_to_apply": "Submit Weaver ID and electricity service number at the Grama/Ward Sachivalayam or Handlooms & Textiles office for DISCOM linkage.",
+    "official_website": "https://handlooms.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Weaver%20Electricity%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-45",
+    "scheme_number": 45,
+    "category": "General Welfare",
+    "name": "Auto Driver Sevalo Scheme",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Transport Department, Government of Andhra Pradesh",
+    "benefits": "₹15,000 per year financial assistance for vehicle insurance, fitness certificate, and maintenance expenses.",
+    "eligibility": "AP resident aged 18+ who is an owner-cum-driver of an AP-registered auto-rickshaw, taxi, or maxi-cab from a BPL/eligible household.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Valid Driving License",
+      "Vehicle RC",
+      "AP Rice Card",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply at the Grama/Ward Sachivalayam with vehicle RC and driving license for Transport Department verification.",
+    "official_website": "https://gsws-nbm.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Auto%20Driver%20Sevalo",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-46",
+    "scheme_number": 46,
+    "category": "General Welfare",
+    "name": "Targeted Public Distribution System (AP Rice Subsidy Scheme)",
+    "state_or_central": "Joint (State of Andhra Pradesh + NFSA Central)",
+    "department": "Consumer Affairs, Food & Civil Supplies Department, AP",
+    "benefits": "Subsidized/free fortified rice (5 kg per person/month for PHH; 35 kg/family/month for Antyodaya Anna Yojana) plus subsidized dal and sugar at Fair Price Shops.",
+    "eligibility": "Eligible BPL / Priority Household (PHH) and Antyodaya (AAY) families holding a valid AP Rice Card.",
+    "documents_required": [
+      "AP Rice Card",
+      "Aadhaar Card (for biometric e-POS authentication)."
+    ],
+    "how_to_apply": "Apply for a new Rice Card or add family members at the Grama/Ward Sachivalayam; collect monthly rations at your Fair Price Shop.",
+    "official_website": "https://civilsupplies.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/nfsa",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-47",
+    "scheme_number": 47,
+    "category": "General Welfare",
+    "name": "PM Vishwakarma Yojana (Traditional Artisans Support)",
+    "state_or_central": "Central (Implemented across Andhra Pradesh)",
+    "department": "Ministry of Micro, Small & Medium Enterprises (MSME)",
+    "benefits": "Free skill training with ₹500/day stipend, ₹15,000 toolkit e-voucher, collateral-free enterprise loans up to ₹3 Lakh at 5% interest, and digital transaction incentives.",
+    "eligibility": "Traditional artisans and craftspeople aged 18+ across 18 trades (carpenters, blacksmiths, potters, tailors, barbers, washermen, goldsmiths, cobblers, etc.).",
+    "documents_required": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Bank Passbook",
+      "Active Mobile Number."
+    ],
+    "how_to_apply": "Register via any Common Service Centre (CSC) or online on the PM Vishwakarma portal using biometric authentication.",
+    "official_website": "https://pmvishwakarma.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmvy",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-48",
+    "scheme_number": 48,
+    "category": "General Welfare",
+    "name": "PM SVANidhi (Street Vendors Micro-Credit Scheme)",
+    "state_or_central": "Central (Implemented in Urban AP via MEPMA)",
+    "department": "Ministry of Housing & Urban Affairs / AP MEPMA",
+    "benefits": "Collateral-free working capital loans starting at ₹10,000 (upgradable to ₹20,000 and ₹50,000 on timely repayment), 7% interest subsidy, and digital cashback rewards.",
+    "eligibility": "Urban street vendors, hawkers, and pushcart sellers operating in Andhra Pradesh towns/cities with a Certificate of Vending or Letter of Recommendation.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Voter ID",
+      "Vending Certificate / ULB Recommendation Letter",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply online on the PM SVANidhi portal or through your nearest Ward Sachivalayam / MEPMA office / CSC.",
+    "official_website": "https://pmsvanidhi.mohua.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmsvanidhi",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-49",
+    "scheme_number": 49,
+    "category": "General Welfare",
+    "name": "PM Surya Ghar: Muft Bijli Yojana (Rooftop Solar Subsidy)",
+    "state_or_central": "Central (Implemented in AP via APSPDCL/APEPDCL/APCPDCL)",
+    "department": "Ministry of New & Renewable Energy (MNRE)",
+    "benefits": "Up to 300 units of free electricity per month via rooftop solar, with a direct central subsidy of ₹30,000 (1 kW), ₹60,000 (2 kW), or ₹78,000 (3 kW+).",
+    "eligibility": "Indian citizens owning a house with a suitable roof and a valid domestic electricity connection in Andhra Pradesh.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Latest Electricity Bill",
+      "Roof Ownership Proof",
+      "Bank Passbook / Cancelled Cheque."
+    ],
+    "how_to_apply": "Register on the PM Surya Ghar national portal, select your AP DISCOM, get feasibility approval, install via an empanelled vendor, and claim DBT subsidy.",
+    "official_website": "https://pmsuryaghar.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmsgmby",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-50",
+    "scheme_number": 50,
+    "category": "General Welfare",
+    "name": "Sukanya Samriddhi Yojana (Girl Child Savings Scheme)",
+    "state_or_central": "Central (Available at all Post Offices & Banks in AP)",
+    "department": "Ministry of Finance, Government of India",
+    "benefits": "High-interest (8.2% p.a. subject to quarterly revision), tax-free (EEE) savings account for a girl child's higher education and marriage, maturing after 21 years.",
+    "eligibility": "Parents or legal guardians of a girl child below 10 years of age (maximum 2 accounts per family, or 3 in case of twins/triplets).",
+    "documents_required": [
+      "Girl Child's Birth Certificate",
+      "Parent/Guardian Aadhaar & PAN Card",
+      "Passport Size Photos."
+    ],
+    "how_to_apply": "Open an account with a minimum deposit of ₹250 at any India Post Office or authorized public/private sector bank branch.",
+    "official_website": "https://www.indiapost.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/ssy",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-51",
+    "scheme_number": 51,
+    "category": "General Welfare",
+    "name": "Rythu Seva Kendram (RSK) Integrated Agri-Advisory & Input Services",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Department of Agriculture & Cooperation, AP",
+    "benefits": "Village-level one-stop access to quality-tested seeds, fertilizers, pesticides, soil/seed testing, e-Crop booking, and real-time crop advisory.",
+    "eligibility": "All cultivating farmers and CCRC tenant farmers across rural Andhra Pradesh.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Pattadar Passbook / CCRC Card."
+    ],
+    "how_to_apply": "Visit your local village Rythu Seva Kendram and register your requirement with the Village Agriculture/Horticulture Assistant.",
+    "official_website": "https://apagrisnet.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Rythu%20Seva%20Kendram",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-52",
+    "scheme_number": 52,
+    "category": "General Welfare",
+    "name": "Andhra Pradesh Micro Irrigation Project (APMIP – Drip & Sprinkler Subsidy)",
+    "state_or_central": "Joint (State of Andhra Pradesh + PMKSY Per Drop More Crop)",
+    "department": "Department of Horticulture, Government of Andhra Pradesh",
+    "benefits": "55% to 90% subsidy (up to 90%–100% for SC/ST small & marginal farmers in notified mandals) on drip and sprinkler irrigation systems.",
+    "eligibility": "AP farmers owning agricultural/horticultural land (up to 5 hectares) with an assured irrigation water source.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Pattadar Passbook / 1B",
+      "Caste Certificate",
+      "Bank Passbook",
+      "Water Source Proof."
+    ],
+    "how_to_apply": "Register online on the APMIP portal or through the Horticulture Officer at your Rythu Seva Kendram.",
+    "official_website": "https://apmip.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmksy",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-53",
+    "scheme_number": 53,
+    "category": "General Welfare",
+    "name": "AP MSME One & Industrial Development Policy Subsidies",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Department of Industries, Commerce & Export Promotion, AP",
+    "benefits": "Investment subsidy, power cost reimbursement, SGST reimbursement, stamp duty exemption, and interest subsidy for Micro, Small & Medium Enterprises (with enhanced incentives for SC/ST/Women entrepreneurs).",
+    "eligibility": "Registered MSME units setting up or expanding manufacturing/service operations in Andhra Pradesh with valid Udyam Registration.",
+    "documents_required": [
+      "Udyam Registration Certificate",
+      "PAN",
+      "GSTIN",
+      "Project Report",
+      "Caste/Women Entrepreneur Certificate (if applicable)",
+      "Bank Loan Sanction Letter."
+    ],
+    "how_to_apply": "Apply online through the AP MSME One / Single Desk Portal (`apindustries.gov.in`).",
+    "official_website": "https://apmsmeone.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=MSME%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-54",
+    "scheme_number": 54,
+    "category": "General Welfare",
+    "name": "AP Nethanna Nestham / Handloom Weavers Financial & Loom Modernization Support",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Department of Handlooms and Textiles, AP",
+    "benefits": "Annual financial assistance and up to 90% subsidy on modern handlooms, jacquards, dobbies, and yarn/dyeing inputs for weaver households.",
+    "eligibility": "Traditional handloom weaver families owning and operating a handloom in Andhra Pradesh from BPL/eligible households.",
+    "documents_required": [
+      "Aadhaar Card",
+      "AP Rice Card",
+      "Weaver ID Card",
+      "Geo-tagged Loom Photo",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply at the Grama/Ward Sachivalayam or District Handlooms & Textiles Office for physical verification of the loom.",
+    "official_website": "https://handlooms.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Handloom%20Weaver%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-55",
+    "scheme_number": 55,
+    "category": "General Welfare",
+    "name": "AP Brahmin Welfare Corporation – Bharati Education & Chanakya Entrepreneurship Schemes",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Andhra Pradesh Brahmin Welfare Corporation (APBWC)",
+    "benefits": "Educational scholarships (₹10,000–₹20,000/yr) for Inter/Degree/PG/Professional students and subsidized entrepreneurship/self-employment loans.",
+    "eligibility": "Economically weaker Brahmin students and youth domiciled in Andhra Pradesh with annual family income ≤ ₹3 Lakh.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Brahmin Caste Certificate",
+      "Income Certificate",
+      "Study Certificate / Business Plan",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply online through the APBWC official portal under the respective scheme notification.",
+    "official_website": "https://andhrabrahmin.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Brahmin%20Welfare%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-56",
+    "scheme_number": 56,
+    "category": "General Welfare",
+    "name": "AP Kapu Welfare & Development Corporation – Self-Employment & Skill Support",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "AP State Kapu Welfare and Development Corporation Ltd",
+    "benefits": "Bank-linked financial subsidy and skill training programs for youth and women from Kapu, Balija, Telaga, and Ontari communities.",
+    "eligibility": "Domiciled AP residents aged 21–45 belonging to Kapu/Balija/Telaga/Ontari communities with annual family income ≤ ₹2.5 Lakh.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Community Certificate",
+      "Income Certificate",
+      "AP Rice Card",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Register through the Online Beneficiary Management & Monitoring System (OBMMS) portal (`apobmms.apcfss.in`) via Grama/Ward Sachivalayam.",
+    "official_website": "https://apobmms.apcfss.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Kapu%20Welfare%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-57",
+    "scheme_number": 57,
+    "category": "General Welfare",
+    "name": "AP BC Welfare Corporation – Economic Support & Self-Employment Scheme",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Backward Classes Welfare Department (56 BC Corporations)",
+    "benefits": "Subsidized bank-linked loans and unit cost subsidies for setting up micro-enterprises, dairy units, and traditional occupational units.",
+    "eligibility": "Backward Class (BC-A, BC-B, BC-C, BC-D, BC-E) residents of AP aged 21–50 from BPL families.",
+    "documents_required": [
+      "Aadhaar Card",
+      "BC Caste Certificate",
+      "Income Certificate",
+      "AP Rice Card",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply online on the AP OBMMS portal through your Grama/Ward Sachivalayam during open application windows.",
+    "official_website": "https://apobmms.apcfss.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=BC%20Corporation%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-58",
+    "scheme_number": 58,
+    "category": "General Welfare",
+    "name": "AP SC Cooperative Finance Corporation – Economic Support & Land Purchase Scheme",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Social Welfare Department / APSCCFC",
+    "benefits": "Bank-linked self-employment subsidy, transport vehicle units, and agricultural land purchase/development assistance for landless SC families.",
+    "eligibility": "Scheduled Caste (SC) residents of Andhra Pradesh aged 21–50 from BPL households.",
+    "documents_required": [
+      "Aadhaar Card",
+      "SC Caste Certificate",
+      "Income Certificate",
+      "AP Rice Card",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply online on `apobmms.apcfss.in` or at your Grama/Ward Sachivalayam.",
+    "official_website": "https://apobmms.apcfss.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=SC%20Corporation%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-59",
+    "scheme_number": 59,
+    "category": "General Welfare",
+    "name": "TRICOR (AP Tribal Cooperative Finance Corporation) Economic Support Scheme",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Tribal Welfare Department / TRICOR",
+    "benefits": "Margin money and subsidy support for tribal youth and women to start micro-enterprises, agro-processing, and forest produce units.",
+    "eligibility": "Scheduled Tribe (ST) residents of Andhra Pradesh aged 18–50 from BPL families.",
+    "documents_required": [
+      "Aadhaar Card",
+      "ST Caste Certificate",
+      "Income Certificate",
+      "AP Rice Card",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply through the ITDA / District Tribal Welfare Office or on the OBMMS portal via Grama Sachivalayam.",
+    "official_website": "https://aptribes.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Tribal%20Welfare%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-60",
+    "scheme_number": 60,
+    "category": "General Welfare",
+    "name": "AP State Minorities Finance Corporation – Economic Support & Dulhan / Shaadi Assistance",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Minorities Welfare Department, AP",
+    "benefits": "Subsidized bank-linked self-employment loans, skill training, and financial assistance for eligible minority families.",
+    "eligibility": "Minority community residents (Muslim, Christian, Sikh, Buddhist, Jain, Parsi) domiciled in AP with annual family income ≤ ₹1.5 Lakh (rural) / ₹2 Lakh (urban).",
+    "documents_required": [
+      "Aadhaar Card",
+      "Minority Community Certificate",
+      "Income Certificate",
+      "AP Rice Card",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Submit application online via `apobmms.apcfss.in` or through the District Minorities Welfare Office.",
+    "official_website": "https://apsmfc.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Minorities%20Finance%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-61",
+    "scheme_number": 61,
+    "category": "General Welfare",
+    "name": "AP Building and Other Construction Workers (APBoCW) Welfare Schemes",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Labour Department (AP Building & Other Construction Workers Welfare Board)",
+    "benefits": "Financial assistance for maternity (₹20,000), marriage of daughters (₹20,000), natural death (₹1.3 Lakh), accidental death (₹6 Lakh), hospitalization, and children's scholarships.",
+    "eligibility": "Registered construction workers in AP aged 18–60 who have worked at least 90 days in building/construction work in the preceding year.",
+    "documents_required": [
+      "Aadhaar Card",
+      "BoCW Labour Registration Card",
+      "Employer/Union Work Certificate",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Register as a construction worker at the Labour Department office or Grama/Ward Sachivalayam and submit benefit claims online.",
+    "official_website": "https://labour.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Building%20Construction%20Workers%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-62",
+    "scheme_number": 62,
+    "category": "General Welfare",
+    "name": "AP State Skill Development Corporation (APSSDC) Free Skill & Placement Training",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Department of Skill Development & Training, AP",
+    "benefits": "Free industry-aligned technical, IT, manufacturing, healthcare, and soft-skills training with certification and job placement drives (Job Melas).",
+    "eligibility": "Unemployed youth and students domiciled in Andhra Pradesh aged 18–35 (minimum qualification varies from Class 10 to Degree/Engineering).",
+    "documents_required": [
+      "Aadhaar Card",
+      "Educational Qualification Certificates",
+      "Passport Size Photo."
+    ],
+    "how_to_apply": "Register online on the APSSDC portal (`apssdc.in`) and enroll in a nearby Skill Hub or Skill College.",
+    "official_website": "https://www.apssdc.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=APSSDC",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-63",
+    "scheme_number": 63,
+    "category": "General Welfare",
+    "name": "DDU-GKY (Deen Dayal Upadhyaya Grameen Kaushalya Yojana – AP)",
+    "state_or_central": "Joint (Central + State of Andhra Pradesh)",
+    "department": "SEEDAP (Society for Employment Generation & Enterprise Development in AP)",
+    "benefits": "Free residential/non-residential skill training, free uniforms, study material, food/accommodation, and guaranteed placement with post-placement tracking support.",
+    "eligibility": "Rural youth in Andhra Pradesh aged 15–35 (up to 45 for SC/ST/Women/PwD) from BPL / MGNREGA / SHG households.",
+    "documents_required": [
+      "Aadhaar Card",
+      "AP Rice Card / Job Card",
+      "Educational Certificate",
+      "Caste Certificate",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Mobilize through your Village Organization / Grama Sachivalayam or apply via SEEDAP training centres.",
+    "official_website": "https://seedap.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/ddugky",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-64",
+    "scheme_number": 64,
+    "category": "General Welfare",
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA – AP)",
+    "state_or_central": "Joint (Central + State of Andhra Pradesh)",
+    "department": "Department of Panchayat Raj & Rural Development, AP",
+    "benefits": "Guaranteed 100 days (150 days in drought/tribal areas) of unskilled wage employment per rural household per financial year at notified daily wage rates.",
+    "eligibility": "Any adult member (aged 18+) of a rural household in Andhra Pradesh willing to do unskilled manual labor.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Proof of Rural Residence",
+      "Bank/Post Office Passbook."
+    ],
+    "how_to_apply": "Apply at your Grama Sachivalayam / Gram Panchayat for a free MGNREGA Job Card, then submit a written/oral request for work.",
+    "official_website": "https://nrega.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/mgnrega",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-65",
+    "scheme_number": 65,
+    "category": "General Welfare",
+    "name": "104 Mobile Medical Units (MMU) & 24×7 Tele-Health Helpline",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Health, Medical & Family Welfare Department, AP",
+    "benefits": "Free doorstep monthly doctor consultations in villages, non-communicable disease (BP/diabetes) screening, free medicines, and 24×7 medical advice via toll-free 104.",
+    "eligibility": "All rural, tribal, and urban residents of Andhra Pradesh.",
+    "documents_required": [
+      "Aadhaar Card or Mobile Number (optional for walk-in care)."
+    ],
+    "how_to_apply": "Visit the 104 Mobile Medical Unit on its scheduled village visit day or dial 104 from any phone.",
+    "official_website": "https://hmfw.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=104%20Health%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-66",
+    "scheme_number": 66,
+    "category": "General Welfare",
+    "name": "Dr. YSR / NTR Kanti Velugu (Universal Eye Screening & Free Spectacles)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Health, Medical & Family Welfare Department, AP",
+    "benefits": "Free comprehensive eye checkups, free prescription spectacles, and free cataract/corneal surgeries at government and empanelled eye hospitals.",
+    "eligibility": "All school children, senior citizens, and residents of Andhra Pradesh needing vision care.",
+    "documents_required": [
+      "Aadhaar Card / School ID."
+    ],
+    "how_to_apply": "Attend screening camps at schools, PHCs, or Village Clinics.",
+    "official_website": "https://hmfw.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Eye%20Screening%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-67",
+    "scheme_number": 67,
+    "category": "General Welfare",
+    "name": "Free Dialysis Centres under NTR Vaidya Seva / National Dialysis Programme",
+    "state_or_central": "Joint (State of Andhra Pradesh + NHM)",
+    "department": "Health, Medical & Family Welfare Department, AP",
+    "benefits": "Completely free hemodialysis sessions (3 times a week), free erythropoietin injections, and ₹10,000/month pension support for eligible CKD patients.",
+    "eligibility": "Patients diagnosed with End-Stage Renal Disease (ESRD) / Chronic Kidney Disease residing in Andhra Pradesh.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Nephrologist Prescription",
+      "AP Rice Card / Health Card."
+    ],
+    "how_to_apply": "Register at any Government General Hospital, Area Hospital, or CHC dialysis unit in AP.",
+    "official_website": "https://drntrvaidyaseva.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Dialysis%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-68",
+    "scheme_number": 68,
+    "category": "General Welfare",
+    "name": "AP Tribal Sub-Plan – Giri Poshana (Nutrition for Pregnant & Lactating Tribal Women)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Tribal Welfare & Women and Child Welfare Departments, AP",
+    "benefits": "Additional fortified nutritional food basket (ragi flour, jaggery, groundnut chikki, dry fruits, milk, eggs) to prevent anemia and malnutrition in tribal areas.",
+    "eligibility": "Pregnant women, lactating mothers, and severely underweight children residing in Scheduled Tribal (ITDA) mandals of Andhra Pradesh.",
+    "documents_required": [
+      "Aadhaar Card",
+      "MCP Card",
+      "Anganwadi Registration."
+    ],
+    "how_to_apply": "Automatically provided through Anganwadi Centres in tribal areas.",
+    "official_website": "https://wdcw.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Giri%20Poshana",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-69",
+    "scheme_number": 69,
+    "category": "General Welfare",
+    "name": "Bala Raksha Bhavan & Foster Care / Sponsorship Scheme (Mission Vatsalya)",
+    "state_or_central": "Joint (Central + State of Andhra Pradesh)",
+    "department": "Department of Women Development & Child Welfare, AP",
+    "benefits": "₹4,000 per month financial sponsorship for orphaned, semi-orphaned, or vulnerable children living with extended family/foster parents for education and nutrition.",
+    "eligibility": "Children below 18 years in Andhra Pradesh who have lost one or both parents or whose parents are terminally ill/incapacitated, from economically weak families.",
+    "documents_required": [
+      "Child's Birth Certificate",
+      "Aadhaar Card",
+      "Death Certificate of Parent(s)",
+      "Income Certificate",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply through the District Child Protection Unit (DCPU) or Child Welfare Committee (CWC) via your Anganwadi / Ward Secretariat.",
+    "official_website": "https://wdcw.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/mission-vatsalya",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-70",
+    "scheme_number": 70,
+    "category": "General Welfare",
+    "name": "AP Free Legal Aid Services (APSLSA)",
+    "state_or_central": "Joint (NALSA Central + Andhra Pradesh State Legal Services Authority)",
+    "department": "Andhra Pradesh State Legal Services Authority (High Court of AP)",
+    "benefits": "100% free advocate representation, court fee exemption, drafting of petitions, and Lok Adalat mediation in civil, criminal, family, and labour cases.",
+    "eligibility": "Women, children, SC/ST members, persons with disabilities, senior citizens, industrial workmen, victims of trafficking/disaster, and citizens with annual income ≤ ₹3 Lakh.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Income Certificate / Caste or Disability Proof (as applicable)",
+      "Case Papers."
+    ],
+    "how_to_apply": "Walk into any District Legal Services Authority (DLSA) or Mandal Legal Services Committee (MLSC) at the local court complex, or apply online on the NALSA portal.",
+    "official_website": "https://apslsa.ap.nic.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Free%20Legal%20Aid",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-71",
+    "scheme_number": 71,
+    "category": "General Welfare",
+    "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "state_or_central": "Central (Available across all Banks in AP)",
+    "department": "Ministry of Finance, Government of India",
+    "benefits": "₹2 Lakh life insurance cover payable to the nominee upon the insured's death due to any cause, at a nominal premium of ₹436 per year.",
+    "eligibility": "Indian citizens aged 18 to 50 years holding an individual savings bank or post office account with auto-debit consent.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Savings Bank Account Passbook",
+      "Nominee Details."
+    ],
+    "how_to_apply": "Enroll via net banking/mobile banking, at your bank branch, or through a Bank Mitra / Grama Sachivalayam Digital Assistant.",
+    "official_website": "https://jansuraksha.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmjjby",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-72",
+    "scheme_number": 72,
+    "category": "General Welfare",
+    "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "state_or_central": "Central (Available across all Banks in AP)",
+    "department": "Ministry of Finance, Government of India",
+    "benefits": "₹2 Lakh accidental death and total permanent disability insurance cover (₹1 Lakh for partial disability) at just ₹20 per year.",
+    "eligibility": "Indian citizens aged 18 to 70 years holding a savings bank or post office account.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Savings Bank Account Passbook",
+      "Nominee Details."
+    ],
+    "how_to_apply": "Activate auto-debit at your bank branch, via mobile banking, or through a Business Correspondent.",
+    "official_website": "https://jansuraksha.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmsby",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-73",
+    "scheme_number": 73,
+    "category": "General Welfare",
+    "name": "Atal Pension Yojana (APY)",
+    "state_or_central": "Central (Available across all Banks & Post Offices in AP)",
+    "department": "Pension Fund Regulatory and Development Authority (PFRDA)",
+    "benefits": "Guaranteed minimum monthly pension of ₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000 starting at age 60, with spouse pension and corpus return to nominee.",
+    "eligibility": "Indian citizens aged 18 to 40 years with a savings bank account who are not income taxpayers.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Savings Bank Account",
+      "Active Mobile Number."
+    ],
+    "how_to_apply": "Fill out the APY subscriber registration form at your bank branch or apply online via your bank's mobile app / eNPS portal.",
+    "official_website": "https://enps.nsdl.com/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/apy",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-74",
+    "scheme_number": 74,
+    "category": "General Welfare",
+    "name": "Pradhan Mantri Mudra Yojana (PMMY – Shishu, Kishore, Tarun & Tarun Plus)",
+    "state_or_central": "Central (Implemented across AP Banks & NBFCs)",
+    "department": "Ministry of Finance, Government of India",
+    "benefits": "Collateral-free business loans up to ₹20 Lakh for non-corporate, non-farm micro/small enterprises: Shishu (up to ₹50,000), Kishore (₹50,001–₹5 Lakh), Tarun (₹5–₹10 Lakh), and Tarun Plus (₹10–₹20 Lakh for repeat borrowers).",
+    "eligibility": "Any Indian citizen with a viable business plan for manufacturing, trading, services, or allied agriculture activities.",
+    "documents_required": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Address Proof",
+      "Udyam Registration / Business Proof",
+      "Bank Statement."
+    ],
+    "how_to_apply": "Apply online on the JanSamarth / Udyamimitra portal or visit any public/private bank branch.",
+    "official_website": "https://www.jansamarth.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmmy",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-75",
+    "scheme_number": 75,
+    "category": "General Welfare",
+    "name": "Stand-Up India Scheme (SC / ST & Women Entrepreneurs)",
+    "state_or_central": "Central (Implemented across AP Scheduled Commercial Banks)",
+    "department": "Department of Financial Services, Ministry of Finance",
+    "benefits": "Composite bank loans between ₹10 Lakh and ₹1 Crore for setting up a greenfield enterprise in manufacturing, services, trading, or agri-allied sectors.",
+    "eligibility": "SC or ST entrepreneurs and Women entrepreneurs aged 18+ starting a first-time greenfield business (51% shareholding must be held by SC/ST/Woman).",
+    "documents_required": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Caste Certificate (for SC/ST)",
+      "Project Report",
+      "Business Address Proof."
+    ],
+    "how_to_apply": "Apply online via the Stand-Up India / JanSamarth portal or directly at any bank branch.",
+    "official_website": "https://www.standupmitra.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/sui",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-76",
+    "scheme_number": 76,
+    "category": "General Welfare",
+    "name": "PMEGP (Prime Minister's Employment Generation Programme)",
+    "state_or_central": "Central (Implemented in AP via KVIC, KVIB & DIC)",
+    "department": "Ministry of Micro, Small & Medium Enterprises (MSME)",
+    "benefits": "Credit-linked capital subsidy of 15%–25% (urban) and 25%–35% (rural, SC/ST/Women/Minorities/PwD) on new micro-enterprises up to ₹50 Lakh (manufacturing) and ₹20 Lakh (services).",
+    "eligibility": "Any individual aged 18+ (minimum Class 8 pass for projects above ₹10 Lakh in manufacturing or ₹5 Lakh in services).",
+    "documents_required": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Educational Certificate",
+      "Caste/Special Category Certificate",
+      "Detailed Project Report (DPR)."
+    ],
+    "how_to_apply": "Submit application online on the KVIC PMEGP e-Portal (`kviconline.gov.in/pmegpeportal`).",
+    "official_website": "https://www.kviconline.gov.in/pmegpeportal/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmegp",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-77",
+    "scheme_number": 77,
+    "category": "General Welfare",
+    "name": "PM Formalisation of Micro Food Processing Enterprises (PMFME – AP)",
+    "state_or_central": "Joint (Central + State of Andhra Pradesh)",
+    "department": "AP Food Processing Society, Industries & Commerce Dept",
+    "benefits": "35% credit-linked capital subsidy up to ₹10 Lakh per unit for individual micro food processors/FPOs/SHGs, plus ₹40,000 seed capital per SHG member.",
+    "eligibility": "Existing or new individual micro food processing entrepreneurs, SHGs, FPOs, and cooperatives aged 18+ in Andhra Pradesh.",
+    "documents_required": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Bank Passbook",
+      "Udyam Registration / FSSAI Registration",
+      "Project Proposal."
+    ],
+    "how_to_apply": "Apply online on the MoFPI PMFME portal (`pmfme.mofpi.gov.in`) or contact the District Resource Person (DRP) at the District Industries Centre.",
+    "official_website": "https://pmfme.mofpi.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmfme",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-78",
+    "scheme_number": 78,
+    "category": "General Welfare",
+    "name": "Agriculture Infrastructure Fund (AIF)",
+    "state_or_central": "Central (Implemented across Andhra Pradesh)",
+    "department": "Ministry of Agriculture & Farmers Welfare",
+    "benefits": "3% interest subvention per annum and CGTMSE credit guarantee coverage on loans up to ₹2 Crore for post-harvest management infrastructure (cold storages, warehouses, grading/sorting units, primary processing).",
+    "eligibility": "Farmers, FPOs, PACS, SHGs, agri-entrepreneurs, and startups in Andhra Pradesh.",
+    "documents_required": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Land/Lease Document",
+      "Detailed Project Report",
+      "Bank KYC."
+    ],
+    "how_to_apply": "Apply online on the National Agriculture Infra Financing Facility portal (`agriinfra.dac.gov.in`).",
+    "official_website": "https://agriinfra.dac.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/aif",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-79",
+    "scheme_number": 79,
+    "category": "General Welfare",
+    "name": "Pradhan Mantri Matsya Sampada Yojana (PMMSY – AP Aquaculture)",
+    "state_or_central": "Joint (Central + State of Andhra Pradesh)",
+    "department": "Department of Fisheries, AP & Ministry of Fisheries, GoI",
+    "benefits": "40% subsidy (general) and 60% subsidy (Women/SC/ST) on aquaculture ponds, biofloc units, recirculatory aquaculture systems (RAS), insulated vehicles, and fish kiosks.",
+    "eligibility": "Fishers, fish farmers, SHGs, FFPOs, and fisheries entrepreneurs in Andhra Pradesh.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Ownership/Lease Agreement",
+      "Caste Certificate",
+      "Project Report",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Submit project proposal through the District Fisheries Officer or AP Fisheries portal.",
+    "official_website": "https://fisheries.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmmsy",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-80",
+    "scheme_number": 80,
+    "category": "General Welfare",
+    "name": "National Livestock Mission (NLM – Entrepreneurship Development in AP)",
+    "state_or_central": "Joint (Central + State of Andhra Pradesh)",
+    "department": "Animal Husbandry Department, AP",
+    "benefits": "50% back-ended capital subsidy (up to ₹50 Lakh) for establishing rural poultry hatcheries, sheep/goat breeding farms, piggery, and fodder processing units.",
+    "eligibility": "Individual entrepreneurs, SHGs, FPOs, and Section 8 companies in Andhra Pradesh with land/lease availability.",
+    "documents_required": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Land Ownership/Lease Deed",
+      "Detailed Project Report",
+      "Training Certificate."
+    ],
+    "how_to_apply": "Apply online on the NLM Udyamimitra portal (`nlm.udyamimitra.in`) for State Implementing Agency (SIA) recommendation.",
+    "official_website": "https://nlm.udyamimitra.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/nlm",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-81",
+    "scheme_number": 81,
+    "category": "General Welfare",
+    "name": "PM-KUSUM (Solar Agricultural Pumps & Feeder Solarization)",
+    "state_or_central": "Joint (Central + State of Andhra Pradesh)",
+    "department": "New & Renewable Energy Development Corporation of AP (NREDCAP)",
+    "benefits": "60% combined central and state subsidy (plus 30% bank loan option) for installing standalone off-grid solar agriculture water pumps and solarizing existing grid-connected pumps.",
+    "eligibility": "Individual farmers, water user associations, and farmer groups in Andhra Pradesh with agricultural land and irrigation water source.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Pattadar Passbook / Land Record",
+      "Electricity Service Number (for Component C)",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply through NREDCAP or AP DISCOM portals when seasonal allotments are notified.",
+    "official_website": "https://nredcap.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pm-kusum",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-82",
+    "scheme_number": 82,
+    "category": "General Welfare",
+    "name": "Rashtriya Vayoshri Yojana (Free Assisted Living Devices for Senior Citizens)",
+    "state_or_central": "Central (Implemented across AP Districts via ALIMCO)",
+    "department": "Ministry of Social Justice & Empowerment",
+    "benefits": "Free physical aids and assisted-living devices (walking sticks, elbow crutches, walkers, tripods, hearing aids, wheelchairs, artificial dentures, spectacles) based on medical assessment.",
+    "eligibility": "Senior citizens aged 60+ belonging to BPL families (or monthly income ≤ ₹15,000) suffering from age-related disabilities/infirmities.",
+    "documents_required": [
+      "Aadhaar Card",
+      "BPL / Rice Card or Income Certificate",
+      "Disability/Medical Assessment Slip."
+    ],
+    "how_to_apply": "Attend ALIMCO assessment camps organized by the District Differently Abled & Senior Citizens Welfare Office.",
+    "official_website": "https://www.alimco.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/rvy",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-83",
+    "scheme_number": 83,
+    "category": "General Welfare",
+    "name": "ADIP Scheme (Assistance to Disabled Persons for Aids & Appliances)",
+    "state_or_central": "Central (Implemented across AP Districts)",
+    "department": "Department of Empowerment of Persons with Disabilities (DEPwD)",
+    "benefits": "Free or subsidized modern assistive devices (motorized tricycles, smart canes, hearing aids, prosthetic limbs, Braille kits, wheelchairs).",
+    "eligibility": "Indian citizens of any age with 40% or more certified disability and monthly family income up to ₹22,500 (100% free) or ₹22,501–₹30,000 (50% subsidy).",
+    "documents_required": [
+      "Aadhaar Card",
+      "UDID / SADAREM Disability Certificate",
+      "Income Certificate."
+    ],
+    "how_to_apply": "Apply online on the ADIP / DEPwD portal or through district-level ALIMCO distribution camps.",
+    "official_website": "https://disabilityaffairs.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/adip",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-84",
+    "scheme_number": 84,
+    "category": "General Welfare",
+    "name": "Indira Gandhi National Old Age / Widow / Disability Pension (NSAP – AP Component)",
+    "state_or_central": "Central (Integrated into AP's NTR Bharosa Pension)",
+    "department": "Ministry of Rural Development / AP SERP",
+    "benefits": "Central pension contribution (₹200–₹500/month) merged seamlessly into AP's ₹4,000–₹6,000/month NTR Bharosa pension payout.",
+    "eligibility": "BPL senior citizens (60+), BPL widows (40–79), and BPL persons with severe/multiple disabilities (80%+).",
+    "documents_required": [
+      "Aadhaar Card",
+      "AP Rice Card",
+      "Age/Death/SADAREM Certificate",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Automatically covered when applying for NTR Bharosa Pension at your Grama/Ward Sachivalayam.",
+    "official_website": "https://nsap.nic.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/nsap",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-85",
+    "scheme_number": 85,
+    "category": "General Welfare",
+    "name": "National Means-cum-Merit Scholarship Scheme (NMMSS – Class 8 Students)",
+    "state_or_central": "Central (Conducted in AP by Directorate of Government Examinations)",
+    "department": "Ministry of Education / AP School Education Dept",
+    "benefits": "₹12,000 per year (₹1,000/month) scholarship from Class 9 to Class 12 to prevent school dropouts.",
+    "eligibility": "Students studying in Class 8 in Government, Local Body, or Government-Aided schools in AP with parental annual income ≤ ₹3.5 Lakh and ≥ 55% marks in Class 7 (50% for SC/ST), who qualify in the NMMS exam.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Class 7 Marks Memo",
+      "Income Certificate",
+      "Caste Certificate",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Register for the AP NMMS exam via `bse.ap.gov.in` through your school, qualify the exam, and claim annually on the National Scholarship Portal (NSP).",
+    "official_website": "https://scholarships.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/nmmss",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-86",
+    "scheme_number": 86,
+    "category": "General Welfare",
+    "name": "PM YASASVI / Central Sector Scholarship for College & University Students",
+    "state_or_central": "Central (Available to AP Intermediate Toppers)",
+    "department": "Department of Higher Education, Ministry of Education",
+    "benefits": "₹12,000 per year during UG (first 3 years) and ₹20,000 per year during PG/4th–5th year of professional courses.",
+    "eligibility": "Students who score above the 80th percentile in the AP Board of Intermediate Education (BIEAP) Class 12 exam, pursuing regular full-time degree/professional courses with parental income ≤ ₹4.5 Lakh/year.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Intermediate Marks Memo",
+      "Income Certificate",
+      "College Bonafide",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply online on the National Scholarship Portal (`scholarships.gov.in`) using One-Time Registration (OTR).",
+    "official_website": "https://scholarships.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/csss",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-87",
+    "scheme_number": 87,
+    "category": "General Welfare",
+    "name": "AICTE Pragati (Girl Students) & Saksham (PwD Students) Technical Scholarships",
+    "state_or_central": "Central (Applicable to AP Engineering & Polytechnic Students)",
+    "department": "All India Council for Technical Education (AICTE)",
+    "benefits": "₹50,000 per year for every year of study (up to 4 years for Degree / 3 years for Diploma) toward tuition fees, books, and laptop/equipment.",
+    "eligibility": "Girl students (Pragati, up to 2 girls per family) and students with ≥40% disability (Saksham) admitted to 1st year of AICTE-approved Degree or Diploma courses in AP with family income ≤ ₹8 Lakh/year.",
+    "documents_required": [
+      "Aadhaar Card",
+      "SSC & Inter Marks Memos",
+      "CET Allotment Letter",
+      "Income Certificate",
+      "Disability Certificate (for Saksham)",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply online on the National Scholarship Portal (`scholarships.gov.in`).",
+    "official_website": "https://scholarships.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pragati",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-88",
+    "scheme_number": 88,
+    "category": "General Welfare",
+    "name": "Deendayal Antyodaya Yojana – National Urban Livelihoods Mission (DAY-NULM / AP MEPMA)",
+    "state_or_central": "Joint (Central + State of Andhra Pradesh)",
+    "department": "Mission for Elimination of Poverty in Municipal Areas (MEPMA), AP",
+    "benefits": "Formation of urban women SHGs, ₹10,000 revolving fund per SHG, subsidized individual/group micro-enterprise loans (SEP), free skill training (EST&P), and urban homeless shelters.",
+    "eligibility": "Urban poor households (BPL / Rice Cardholders) residing in municipalities and municipal corporations across Andhra Pradesh.",
+    "documents_required": [
+      "Aadhaar Card",
+      "AP Rice Card",
+      "Urban Address Proof",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Contact the Community Organizer (CO) or Resource Person (RP) at your Ward Sachivalayam / Municipal Office.",
+    "official_website": "https://apmepma.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/day-nulm",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-89",
+    "scheme_number": 89,
+    "category": "General Welfare",
+    "name": "Swachh Andhra – Individual Household Latrine (IHHL) Construction Incentive",
+    "state_or_central": "Joint (Central SBM-G / SBM-U + State of Andhra Pradesh)",
+    "department": "Swachh Andhra Corporation / Rural Water Supply & Sanitation Dept",
+    "benefits": "₹12,000 (rural) to ₹15,000 (urban) financial incentive paid in installments for constructing a sanitary household toilet.",
+    "eligibility": "Rural and urban households in Andhra Pradesh without an existing functional household toilet (priority to BPL, SC/ST, small/marginal farmers, and women-headed households).",
+    "documents_required": [
+      "Aadhaar Card",
+      "AP Rice Card",
+      "Geo-tagged Photo of Construction Site",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply at your Grama/Ward Sachivalayam or online on the Swachh Bharat Mission portal (`swachhbharatmission.ddws.gov.in`).",
+    "official_website": "https://swachhbharatmission.ddws.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/sbm-g",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-90",
+    "scheme_number": 90,
+    "category": "General Welfare",
+    "name": "Jana Suraksha & PM Jeevan Suraksha – e-Shram Unorganised Worker Registration & Accident Cover",
+    "state_or_central": "Central (Implemented across AP Common Service Centres & Sachivalayams)",
+    "department": "Ministry of Labour & Employment, Government of India",
+    "benefits": "Universal UAN e-Shram Card for unorganised workers, ₹2 Lakh accidental death/permanent disability insurance (via PMSBY linkage), and priority access to central/state social security benefits.",
+    "eligibility": "Any unorganised sector worker (agricultural labourer, migrant worker, domestic worker, gig/platform worker, street vendor, weaver, fisherman) aged 16–59 who is not an EPFO/ESIC member or income taxpayer.",
+    "documents_required": [
+      "Aadhaar Card (linked with active mobile number)",
+      "Bank Account Details."
+    ],
+    "how_to_apply": "Self-register free of cost on `eshram.gov.in` or visit any Grama/Ward Sachivalayam Digital Assistant / CSC.",
+    "official_website": "https://eshram.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/eshram",
+    "date_collected": "19 Nov 2026# Additional Government Welfare Schemes Master Dataset (Schemes 91–190)"
+  },
+  {
+    "id": "ap-scheme-91",
+    "scheme_number": 91,
+    "category": "General Welfare",
+    "name": "Paramparagat Krishi Vikas Yojana (PKVY – Organic Farming)",
+    "state_or_central": "Central (Implemented across Andhra Pradesh)",
+    "department": "Ministry of Agriculture & Farmers Welfare",
+    "benefits": "₹31,500 per hectare over 3 years (including ₹15,000/ha DBT for organic inputs, cluster formation, certification, and marketing).",
+    "eligibility": "Farmers forming organic farming clusters of at least 20 hectares (50 acres) with landholding up to 2 hectares per farmer.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Ownership Record",
+      "Bank Passbook",
+      "Cluster Registration."
+    ],
+    "how_to_apply": "Register through your local Rythu Seva Kendram (RSK) or District Agriculture Office under the PGS-India organic cluster programme.",
+    "official_website": "https://pgsindia-ncof.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pkvy",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-92",
+    "scheme_number": 92,
+    "category": "General Welfare",
+    "name": "e-NAM (National Agriculture Market)",
+    "state_or_central": "Central (Integrated with AP Agricultural Market Yards)",
+    "department": "Small Farmers Agribusiness Consortium (SFAC), Ministry of Agriculture",
+    "benefits": "Pan-India electronic trading portal enabling transparent online auction of farm produce, better price discovery, and direct online payment to farmer bank accounts.",
+    "eligibility": "All farmers, FPOs, and licensed traders selling agricultural commodities at e-NAM integrated APMC mandis.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Passbook (with IFSC)",
+      "Mobile Number."
+    ],
+    "how_to_apply": "Register free of cost on the e-NAM portal/mobile app or at the nearest e-NAM integrated Agricultural Market Committee (AMC) gate.",
+    "official_website": "https://www.enam.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/enam",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-93",
+    "scheme_number": 93,
+    "category": "General Welfare",
+    "name": "Rashtriya Gokul Mission (RGM)",
+    "state_or_central": "Central (Implemented via AP Animal Husbandry Dept)",
+    "department": "Department of Animal Husbandry & Dairying, GoI",
+    "benefits": "Free nationwide artificial insemination, sex-sorted semen subsidies, IVF embryo transfer incentives (₹5,000 per assured pregnancy), and up to 50% capital subsidy (up to ₹2 Crore) for breed multiplication farms.",
+    "eligibility": "Dairy farmers, gaushalas, SHGs, FPOs, and livestock entrepreneurs.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Land/Shed Proof",
+      "Project Report (for farm subsidy)",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Contact your local Veterinary Dispensary for breeding services or apply on the Udyamimitra portal for breed farm subsidies.",
+    "official_website": "https://dahd.nic.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/rgm",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-94",
+    "scheme_number": 94,
+    "category": "General Welfare",
+    "name": "Animal Husbandry Infrastructure Development Fund (AHIDF)",
+    "state_or_central": "Central",
+    "department": "Department of Animal Husbandry & Dairying, GoI",
+    "benefits": "3% interest subvention on loans (up to 90% of project cost) plus 25% credit guarantee coverage for dairy processing, meat processing, animal feed plants, and veterinary vaccine units.",
+    "eligibility": "FPOs, MSMEs, private companies, Section 8 companies, and individual entrepreneurs.",
+    "documents_required": [
+      "PAN Card",
+      "Aadhaar Card",
+      "Udyam Registration",
+      "Detailed Project Report (DPR)",
+      "Land Proof."
+    ],
+    "how_to_apply": "Submit application and DPR online via the AHIDF Udyamimitra portal.",
+    "official_website": "https://ahidf.udyamimitra.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/ahidf",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-95",
+    "scheme_number": 95,
+    "category": "General Welfare",
+    "name": "National Beekeeping & Honey Mission (NBHM)",
+    "state_or_central": "Central",
+    "department": "National Bee Board, Ministry of Agriculture & Farmers Welfare",
+    "benefits": "Subsidies on bee colonies, bee boxes, honey extraction equipment, testing labs, and free scientific beekeeping training for \"Sweet Revolution\" income generation.",
+    "eligibility": "Individual farmers, rural youth, women SHGs, FPOs, and beekeeping cooperatives.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Passbook",
+      "Training Certificate (if applicable)",
+      "Land/Site Proof."
+    ],
+    "how_to_apply": "Register on the Madhukranti portal and submit proposals through the State Horticulture/Agriculture Department.",
+    "official_website": "https://nbb.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/nbhm",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-96",
+    "scheme_number": 96,
+    "category": "General Welfare",
+    "name": "Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASHA)",
+    "state_or_central": "Central",
+    "department": "Ministry of Agriculture & Farmers Welfare",
+    "benefits": "Ensures Minimum Support Price (MSP) to farmers for pulses, oilseeds, and copra via Price Support Scheme (PSS), Price Deficiency Payment Scheme (PDPS), and Private Procurement Stockist Scheme.",
+    "eligibility": "Registered farmers cultivating notified pulses, oilseeds, and copra.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Record / e-Crop Booking",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Register crop details on the state e-Crop / procurement portal and sell produce at notified NAFED / MARKFED procurement centres.",
+    "official_website": "https://agricoop.nic.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pm-aasha",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-97",
+    "scheme_number": 97,
+    "category": "General Welfare",
+    "name": "Mission for Integrated Development of Horticulture (MIDH)",
+    "state_or_central": "Joint (Central + State Horticulture Dept)",
+    "department": "Ministry of Agriculture & Farmers Welfare / AP Horticulture Dept",
+    "benefits": "40%–50% subsidy for new orchards (mango, banana, citrus, pomegranate), polyhouses/shade-nets, pack houses, cold storages, and plastic mulching.",
+    "eligibility": "All horticulture farmers, FPOs, and agri-entrepreneurs with cultivable land.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Pattadar Passbook / 1B",
+      "Bank Passbook",
+      "Quotation/DPR."
+    ],
+    "how_to_apply": "Apply through the Village Horticulture Assistant at your Rythu Seva Kendram or District Horticulture Office.",
+    "official_website": "https://midh.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/midh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-98",
+    "scheme_number": 98,
+    "category": "General Welfare",
+    "name": "National Food Security Mission (NFSM)",
+    "state_or_central": "Joint (Central + State of Andhra Pradesh)",
+    "department": "Department of Agriculture & Farmers Welfare",
+    "benefits": "Subsidized high-yielding seeds, micronutrients, bio-fertilizers, cluster demonstrations, and farm implements for rice, pulses, coarse cereals, and nutri-cereals (millets).",
+    "eligibility": "Small, marginal, and general farmers cultivating notified foodgrain crops in designated districts.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Record / CCRC",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Contact the Village Agriculture Assistant at your Rythu Seva Kendram during Kharif/Rabi input distribution.",
+    "official_website": "https://nfsm.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/nfsm",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-99",
+    "scheme_number": 99,
+    "category": "General Welfare",
+    "name": "Sub-Mission on Agroforestry (SMAF)",
+    "state_or_central": "Joint (Central + State)",
+    "department": "Ministry of Agriculture & Farmers Welfare",
+    "benefits": "50% financial assistance for planting timber/fruit trees along farm bunds (\"Har Medh Par Ped\"), nursery raising, and peripheral plantation.",
+    "eligibility": "Farmers with valid Soil Health Cards willing to plant trees alongside agricultural crops.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Ownership Record",
+      "Soil Health Card",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply through the District Agriculture / Social Forestry Office.",
+    "official_website": "https://agricoop.nic.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/smaf",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-100",
+    "scheme_number": 100,
+    "category": "General Welfare",
+    "name": "Krishi Udan 2.0 Scheme",
+    "state_or_central": "Central",
+    "department": "Ministry of Civil Aviation (with Ministry of Agriculture)",
+    "benefits": "Waiver of airport landing, parking, and terminal navigation charges for cargo airlines transporting perishable agricultural produce (fruits, vegetables, marine/fishery products) from notified airports (including Visakhapatnam/Vijayawada corridors).",
+    "eligibility": "Farmers, FPOs, agri-exporters, and cargo aggregators shipping perishables by air.",
+    "documents_required": [
+      "FPO/Exporter Registration",
+      "Produce Consignment Details."
+    ],
+    "how_to_apply": "Coordinate shipments through empanelled air-cargo hubs and the e-KUSHAL digital platform.",
+    "official_website": "https://www.civilaviation.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Krishi%20Udan",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-101",
+    "scheme_number": 101,
+    "category": "General Welfare",
+    "name": "Pradhan Mantri Kisan Sampada Yojana (PMKSY – Food Processing)",
+    "state_or_central": "Central",
+    "department": "Ministry of Food Processing Industries (MoFPI)",
+    "benefits": "35% to 50% capital grant-in-aid (up to ₹5–10 Crore depending on component) for Mega Food Parks, Integrated Cold Chains, Agro-Processing Clusters, and Food Testing Labs.",
+    "eligibility": "Private companies, FPOs, NGOs, cooperatives, SHGs, and state corporations.",
+    "documents_required": [
+      "Company/FPO Registration",
+      "Detailed Project Report",
+      "Bank Loan Appraisal",
+      "Land Documents."
+    ],
+    "how_to_apply": "Apply online on the MoFPI SAMPADA portal against open Expressions of Interest (EoI).",
+    "official_website": "https://www.mofpi.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmksy-mofpi",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-102",
+    "scheme_number": 102,
+    "category": "General Welfare",
+    "name": "Formation and Promotion of 10,000 FPOs Scheme",
+    "state_or_central": "Central",
+    "department": "Ministry of Agriculture & Farmers Welfare (via NABARD, SFAC, NCDC)",
+    "benefits": "Up to ₹18 Lakh financial support per FPO over 3 years for management costs, plus matching equity grant up to ₹15 Lakh and credit guarantee cover up to ₹2 Crore.",
+    "eligibility": "Groups of at least 300 farmers in plain areas (100 in tribal/hilly areas) forming a Farmer Producer Organization.",
+    "documents_required": [
+      "FPO Incorporation Certificate (Companies Act / Cooperative Act)",
+      "Member Aadhaar & Land Records",
+      "Bank Account."
+    ],
+    "how_to_apply": "Connect with Cluster Based Business Organizations (CBBOs) empanelled by NABARD/SFAC in your district.",
+    "official_website": "https://enam.gov.in/web/stakeholders-Involved/fpos",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=10000%20FPO",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-103",
+    "scheme_number": 103,
+    "category": "General Welfare",
+    "name": "Shyama Prasad Mukherji Rurban Mission (SPMRM)",
+    "state_or_central": "Central",
+    "department": "Ministry of Rural Development",
+    "benefits": "Urban-grade infrastructure (piped water, street lights, digital literacy, agro-processing, skill centres, LPG, solid waste management) in rural clusters while preserving rural soul.",
+    "eligibility": "Identified Rurban clusters of contiguous villages with 25,000–50,000 population (5,000–15,000 in tribal areas).",
+    "documents_required": [
+      "Not applicable for individual citizens (cluster-level infrastructure)."
+    ],
+    "how_to_apply": "Implemented by District Collectors and Gram Panchayats; citizens benefit directly from cluster amenities.",
+    "official_website": "https://rurban.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/spmrm",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-104",
+    "scheme_number": 104,
+    "category": "General Welfare",
+    "name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+    "state_or_central": "Central (Implemented by AP Panchayat Raj Engineering Dept)",
+    "department": "Ministry of Rural Development",
+    "benefits": "Construction and upgradation of all-weather paved roads connecting unconnected rural habitations to markets, schools, and hospitals.",
+    "eligibility": "Unconnected rural habitations with population ≥ 500 in plains (≥ 250 in tribal/hilly areas).",
+    "documents_required": [
+      "None for citizens."
+    ],
+    "how_to_apply": "Citizens can report road quality or track village road works via the *Meri Sadak* mobile app.",
+    "official_website": "https://pmgsy.nic.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmgsy",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-105",
+    "scheme_number": 105,
+    "category": "General Welfare",
+    "name": "Sansad Adarsh Gram Yojana (SAGY)",
+    "state_or_central": "Central",
+    "department": "Ministry of Rural Development",
+    "benefits": "Holistic village development (health, education, sanitation, livelihoods, e-governance) through convergence of central and state schemes in MP-adopted Gram Panchayats.",
+    "eligibility": "Gram Panchayats selected by Members of Parliament (Lok Sabha / Rajya Sabha).",
+    "documents_required": [
+      "None for citizens."
+    ],
+    "how_to_apply": "Participate in Gram Sabha Village Development Plan (VDP) meetings in adopted villages.",
+    "official_website": "https://saanjhi.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/sagy",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-106",
+    "scheme_number": 106,
+    "category": "General Welfare",
+    "name": "National Bamboo Mission (NBM)",
+    "state_or_central": "Joint (Central + State)",
+    "department": "Ministry of Agriculture & Farmers Welfare",
+    "benefits": "50% subsidy for bamboo plantation on non-forest land, nursery establishment, bamboo treatment plants, and artisan craft units.",
+    "eligibility": "Farmers, bamboo artisans, SHGs, and entrepreneurs.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Record",
+      "Project Proposal",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply through the State Bamboo Mission / District Horticulture & Forestry Office.",
+    "official_website": "https://nbm.nic.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/nbm",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-107",
+    "scheme_number": 107,
+    "category": "General Welfare",
+    "name": "AP Polam Pilustondi (Farmer Field Outreach & Advisory)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Department of Agriculture, Government of Andhra Pradesh",
+    "benefits": "Free bi-weekly village field visits by agricultural scientists and officials providing pest diagnostics, water-saving tips, soil-based fertilizer advice, and scheme awareness.",
+    "eligibility": "All cultivating farmers across Andhra Pradesh villages.",
+    "documents_required": [
+      "None required."
+    ],
+    "how_to_apply": "Attend the scheduled Tuesday/Wednesday Polam Pilustondi sessions organized at your village Rythu Seva Kendram.",
+    "official_website": "https://apagrisnet.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Polam%20Pilustondi",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-108",
+    "scheme_number": 108,
+    "category": "General Welfare",
+    "name": "Andhra Pradesh Community Managed Natural Farming (APCNF)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Rythu Sadhikara Samstha (RySS), Agriculture Dept, AP",
+    "benefits": "Free training, peer-to-peer handholding by Community Resource Persons (CRPs), and subsidized bio-inputs (Jeevamrutham, Beejamrutham) to transition to chemical-free natural farming.",
+    "eligibility": "All farmers, tenant farmers, and landless women SHG members in Andhra Pradesh.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Farmer/SHG ID."
+    ],
+    "how_to_apply": "Contact the Natural Farming CRP or Village Agriculture Assistant at your Grama Sachivalayam.",
+    "official_website": "https://apcnf.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=APCNF",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-109",
+    "scheme_number": 109,
+    "category": "General Welfare",
+    "name": "National Mission on Edible Oils – Oil Palm (NMEO-OP – AP)",
+    "state_or_central": "Joint (Central + State of Andhra Pradesh)",
+    "department": "Department of Horticulture, AP",
+    "benefits": "₹29,000/hectare subsidy for oil palm planting material, ₹42,000/hectare for maintenance and intercropping over 4 years, plus Viability Price assurance to protect farmers from market crashes.",
+    "eligibility": "Farmers in notified oil palm growing districts of Andhra Pradesh with assured irrigation.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Pattadar Passbook / 1B",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Register through the Horticulture Officer at your Rythu Seva Kendram.",
+    "official_website": "https://nmeo.dac.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/nmeo-op",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-110",
+    "scheme_number": 110,
+    "category": "General Welfare",
+    "name": "AP Sericulture Development & Silk Samagra-2 Subsidy",
+    "state_or_central": "Joint (Central Silk Board + AP Sericulture Dept)",
+    "department": "Department of Sericulture, Government of Andhra Pradesh",
+    "benefits": "50%–75% subsidy (higher for SC/ST/Women) for mulberry plantation, silkworm rearing sheds, drip irrigation, and reeling machines.",
+    "eligibility": "Farmers and women entrepreneurs taking up mulberry cultivation and silkworm rearing in AP.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Record",
+      "Caste Certificate (if applicable)",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply at the Mandal/District Sericulture Office or Grama Sachivalayam.",
+    "official_website": "https://sericulture.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/silk-samagra",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-111",
+    "scheme_number": 111,
+    "category": "General Welfare",
+    "name": "National Fellowship for Scheduled Caste Students (NFSC)",
+    "state_or_central": "Central",
+    "department": "Ministry of Social Justice & Empowerment",
+    "benefits": "₹37,000/month (JRF) and ₹42,000/month (SRF) fellowship plus contingency grant and HRA for pursuing full-time M.Phil./Ph.D. degrees.",
+    "eligibility": "SC candidates who have qualified UGC-NET / CSIR-NET and are admitted to full-time Ph.D. in recognized Indian universities.",
+    "documents_required": [
+      "Aadhaar Card",
+      "SC Caste Certificate",
+      "PG Marks Memo",
+      "NET Scorecard",
+      "Ph.D. Admission Proof."
+    ],
+    "how_to_apply": "Apply online via the NSFDC / UGC Fellowship portal after NET results.",
+    "official_website": "https://fellowship.nsfdc.nic.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/nfsc",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-112",
+    "scheme_number": 112,
+    "category": "General Welfare",
+    "name": "National Fellowship for Scheduled Tribe Students (NFST)",
+    "state_or_central": "Central",
+    "department": "Ministry of Tribal Affairs",
+    "benefits": "₹37,000/month (JRF) and ₹42,000/month (SRF) plus annual contingency grant and HRA for full-time M.Phil./Ph.D. research.",
+    "eligibility": "ST students admitted to regular full-time M.Phil./Ph.D. courses in recognized universities/institutes.",
+    "documents_required": [
+      "Aadhaar Card",
+      "ST Caste Certificate",
+      "PG Degree Certificate",
+      "University Admission Letter."
+    ],
+    "how_to_apply": "Apply online on the Ministry of Tribal Affairs Fellowship portal.",
+    "official_website": "https://fellowship.tribal.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/nfst",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-113",
+    "scheme_number": 113,
+    "category": "General Welfare",
+    "name": "National Fellowship for OBC Students (NF-OBC)",
+    "state_or_central": "Central",
+    "department": "Ministry of Social Justice & Empowerment (via NBCFDC)",
+    "benefits": "₹37,000/month (JRF) and ₹42,000/month (SRF) plus contingency grant and HRA for full-time Ph.D. scholars.",
+    "eligibility": "OBC (Non-Creamy Layer) students who have qualified UGC-NET/CSIR-NET and enrolled in full-time Ph.D.",
+    "documents_required": [
+      "Aadhaar Card",
+      "OBC-NCL Certificate",
+      "NET Scorecard",
+      "Ph.D. Registration Proof."
+    ],
+    "how_to_apply": "Apply online via the NBCFDC Fellowship portal.",
+    "official_website": "https://nbcfdc.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/nfobc",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-114",
+    "scheme_number": 114,
+    "category": "General Welfare",
+    "name": "INSPIRE Scholarship (SHE – Scholarship for Higher Education)",
+    "state_or_central": "Central",
+    "department": "Department of Science & Technology (DST)",
+    "benefits": "₹80,000 per year (₹60,000 cash + ₹20,000 summer research mentorship grant) for up to 5 years for B.Sc./BS/Int. M.Sc. students in basic & natural sciences.",
+    "eligibility": "Top 1% students in Class 12 State/Central Board exams (or JEE/NEET top 10,000 rankers) pursuing Basic/Natural Sciences.",
+    "documents_required": [
+      "Class 12 Marks Memo",
+      "Top 1% Advisory Note",
+      "College Enrollment Proof",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply online on the DST INSPIRE portal (`online-inspire.gov.in`).",
+    "official_website": "https://online-inspire.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/inspire-she",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-115",
+    "scheme_number": 115,
+    "category": "General Welfare",
+    "name": "AICTE Swanath Scholarship Scheme",
+    "state_or_central": "Central",
+    "department": "All India Council for Technical Education (AICTE)",
+    "benefits": "₹50,000 per annum for every year of study (up to 4 years Degree / 3 years Diploma) for tuition, books, and laptop.",
+    "eligibility": "Orphans, children whose either/both parents died due to COVID-19, or wards of Armed Forces/Central Paramilitary Forces martyred in action, pursuing AICTE-approved technical courses with family income ≤ ₹8 Lakh/year.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Parent Death / Martyrdom Certificate",
+      "Income Certificate",
+      "College Admission Proof."
+    ],
+    "how_to_apply": "Apply online via the National Scholarship Portal (`scholarships.gov.in`).",
+    "official_website": "https://scholarships.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/swanath",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-116",
+    "scheme_number": 116,
+    "category": "General Welfare",
+    "name": "Prime Minister's Research Fellowship (PMRF)",
+    "state_or_central": "Central",
+    "department": "Ministry of Education",
+    "benefits": "₹70,000–₹80,000/month fellowship plus ₹2 Lakh/year research contingency grant (up to ₹10 Lakh over 5 years).",
+    "eligibility": "Meritorious B.Tech/Integrated M.Tech/M.Sc. graduates from IITs, NITs, IISERs, IIITs, or top universities admitted to Ph.D. at PMRF-granting institutions.",
+    "documents_required": [
+      "Academic Transcripts",
+      "GATE Score (if applicable)",
+      "Research Proposal",
+      "Recommendation Letters."
+    ],
+    "how_to_apply": "Apply through the admitting PMRF institution on the official PMRF portal.",
+    "official_website": "https://www.pmrf.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmrf",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-117",
+    "scheme_number": 117,
+    "category": "General Welfare",
+    "name": "Central Sector Interest Subsidy Scheme (CSIS) on Education Loans",
+    "state_or_central": "Central",
+    "department": "Department of Higher Education, Ministry of Education",
+    "benefits": "100% interest subsidy during the moratorium period (course duration + 1 year) on education loans up to ₹10 Lakh for technical/professional courses in India.",
+    "eligibility": "Economically Weaker Section (EWS) students with annual parental income ≤ ₹4.5 Lakh taking an education loan from a scheduled bank.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Admission Letter",
+      "Bank Education Loan Sanction Letter."
+    ],
+    "how_to_apply": "Apply through your lending bank branch or via the JanSamarth portal (`jansamarth.in`).",
+    "official_website": "https://www.jansamarth.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/csis",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-118",
+    "scheme_number": 118,
+    "category": "General Welfare",
+    "name": "Dr. Ambedkar Central Sector Scheme of Interest Subsidy (OBC / EBC Overseas Studies)",
+    "state_or_central": "Central",
+    "department": "Ministry of Social Justice & Empowerment",
+    "benefits": "100% interest subsidy during the moratorium period on education loans for Master's, M.Phil., or Ph.D. studies abroad.",
+    "eligibility": "OBC students (family income ≤ ₹8 Lakh/year) and EBC students (family income ≤ ₹5 Lakh/year) admitted to approved foreign universities.",
+    "documents_required": [
+      "Passport",
+      "Foreign University Offer Letter",
+      "OBC/EBC & Income Certificates",
+      "Bank Education Loan Agreement."
+    ],
+    "how_to_apply": "Apply through the lending bank branch (Canara Bank is the nodal bank) or JanSamarth portal.",
+    "official_website": "https://socialjustice.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/acssise",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-119",
+    "scheme_number": 119,
+    "category": "General Welfare",
+    "name": "Begum Hazrat Mahal National Scholarship",
+    "state_or_central": "Central",
+    "department": "Maulana Azad Education Foundation (MAEF), Ministry of Minority Affairs",
+    "benefits": "₹5,000/year (Classes 9–10) and ₹6,000/year (Classes 11–12) scholarship for meritorious minority girl students.",
+    "eligibility": "Girl students from notified minority communities (Muslim, Christian, Sikh, Buddhist, Jain, Parsi) scoring ≥ 50% in previous class with family income ≤ ₹2 Lakh/year.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Minority Self-Declaration",
+      "Income Certificate",
+      "Previous Marks Memo",
+      "School Verification Form."
+    ],
+    "how_to_apply": "Apply online on the National Scholarship Portal (`scholarships.gov.in`).",
+    "official_website": "https://scholarships.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/bhmns",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-120",
+    "scheme_number": 120,
+    "category": "General Welfare",
+    "name": "Post-Matric Scholarship for Students with Disabilities (Central)",
+    "state_or_central": "Central",
+    "department": "Department of Empowerment of Persons with Disabilities (DEPwD)",
+    "benefits": "Maintenance allowance (₹550–₹1,600/month), full non-refundable tuition fee reimbursement, book grant, and disability allowance.",
+    "eligibility": "Students with ≥ 40% certified disability studying in Class 11 up to PG/Professional degrees with parental income ≤ ₹2.5 Lakh/year.",
+    "documents_required": [
+      "Aadhaar Card",
+      "UDID / Disability Certificate",
+      "Income Certificate",
+      "Previous Marks Memo",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply online via the National Scholarship Portal (`scholarships.gov.in`).",
+    "official_website": "https://scholarships.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pms-pwd",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-121",
+    "scheme_number": 121,
+    "category": "General Welfare",
+    "name": "Central Sector Top Class Education Scheme for SC Students",
+    "state_or_central": "Central",
+    "department": "Ministry of Social Justice & Empowerment",
+    "benefits": "Full tuition fee reimbursement (up to ₹2 Lakh/year for private institutes), ₹3,000/month living allowance, ₹5,000/year books, and ₹45,000 one-time grant for a laptop/computer.",
+    "eligibility": "SC students admitted to notified premier institutions (IITs, IIMs, NITs, AIIMS, NLUs, etc.) with family income ≤ ₹8 Lakh/year.",
+    "documents_required": [
+      "Aadhaar Card",
+      "SC Caste Certificate",
+      "Income Certificate",
+      "Premier Institute Admission Proof",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Apply online on the National Scholarship Portal (`scholarships.gov.in`).",
+    "official_website": "https://scholarships.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/tcessc",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-122",
+    "scheme_number": 122,
+    "category": "General Welfare",
+    "name": "National Overseas Scholarship (NOS) for SC Students",
+    "state_or_central": "Central",
+    "department": "Ministry of Social Justice & Empowerment",
+    "benefits": "Full tuition fees, annual maintenance allowance ($15,400 USD / £9,900 GBP), contingency allowance, visa fee, medical insurance, and airfare for Master's/Ph.D. abroad.",
+    "eligibility": "SC, Denotified/Nomadic Tribes, and Landless Agricultural Labourer students aged ≤ 35 years with ≥ 60% marks, family income ≤ ₹8 Lakh/year, and unconditional admission in QS Top-500 foreign universities.",
+    "documents_required": [
+      "Passport",
+      "Unconditional Foreign Offer Letter",
+      "Caste & Income Certificates",
+      "Degree Transcripts."
+    ],
+    "how_to_apply": "Apply online on the NOS portal (`nosmsje.gov.in`).",
+    "official_website": "https://nosmsje.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/nos-sc",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-123",
+    "scheme_number": 123,
+    "category": "General Welfare",
+    "name": "Vigyan Jyoti Programme (STEM Mentorship for Girls)",
+    "state_or_central": "Central",
+    "department": "Department of Science & Technology (DST)",
+    "benefits": "Free STEM mentoring, IIT/NIT lab visits, science camps, career counselling, and competitive exam preparation materials for high-school girls.",
+    "eligibility": "Meritorious girl students studying in Classes 9 to 12 in Jawahar Navodaya Vidyalayas (JNVs) and partner government schools.",
+    "documents_required": [
+      "School ID and Academic Record."
+    ],
+    "how_to_apply": "Enroll through your district's designated JNV Vigyan Jyoti Knowledge Partner hub.",
+    "official_website": "https://dst.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Vigyan%20Jyoti",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-124",
+    "scheme_number": 124,
+    "category": "General Welfare",
+    "name": "Samagra Shiksha Abhiyan",
+    "state_or_central": "Joint (Central + State School Education Dept)",
+    "department": "Ministry of Education",
+    "benefits": "Integrated funding for free textbooks, uniforms, smart classrooms, Kasturba Gandhi Balika Vidyalayas (KGBVs), vocational labs, and inclusive education for children with special needs (Pre-school to Class 12).",
+    "eligibility": "All students enrolled in Government and Government-Aided schools.",
+    "documents_required": [
+      "Standard school admission records."
+    ],
+    "how_to_apply": "Benefits are delivered directly through government schools and KGBVs.",
+    "official_website": "https://samagra.education.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/ssa",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-125",
+    "scheme_number": 125,
+    "category": "General Welfare",
+    "name": "PM-USHA (Pradhan Mantri Uchchatar Shiksha Abhiyan)",
+    "state_or_central": "Joint (Central + State Higher Education Dept)",
+    "department": "Ministry of Education",
+    "benefits": "Grants to State Universities and Colleges (including AP state universities) for modernizing labs, hostels, digital infrastructure, and multidisciplinary NEP 2020 courses.",
+    "eligibility": "State Government Universities and Government/Aided Colleges; benefits all enrolled students.",
+    "documents_required": [
+      "None for individual students."
+    ],
+    "how_to_apply": "Institutions submit proposals via the PM-USHA portal; students benefit from upgraded campus facilities.",
+    "official_website": "https://pmusha.education.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=PM-USHA",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-126",
+    "scheme_number": 126,
+    "category": "General Welfare",
+    "name": "SWAYAM (Free Online Courses & Credit Transfer)",
+    "state_or_central": "Central",
+    "department": "Ministry of Education (NPTEL, AICTE, UGC, NCERT)",
+    "benefits": "100% free online video courses from IIT/IIM/Central University professors across Engineering, Management, Humanities, and School subjects, with optional proctored certification and university credit transfer.",
+    "eligibility": "Open to all learners (Class 9 to PG and working professionals; no age or income limit).",
+    "documents_required": [
+      "Email ID / Mobile Number (ID card only for optional paid exam)."
+    ],
+    "how_to_apply": "Sign up free on `swayam.gov.in` and enroll in any active course.",
+    "official_website": "https://swayam.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=SWAYAM",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-127",
+    "scheme_number": 127,
+    "category": "General Welfare",
+    "name": "National Apprenticeship Promotion Scheme (NAPS-2)",
+    "state_or_central": "Central",
+    "department": "Ministry of Skill Development & Entrepreneurship (MSDE)",
+    "benefits": "Paid on-the-job apprenticeship training in industry with government DBT stipend support (25% of stipend up to ₹1,500/month directly to the apprentice's bank account).",
+    "eligibility": "Indian youth aged 14+ (18+ for hazardous industries) with minimum Class 5 to ITI/Graduate qualifications depending on the trade.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Educational/ITI Certificate",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Register as a candidate on `apprenticeshipindia.gov.in` and apply to open industry apprenticeships.",
+    "official_website": "https://www.apprenticeshipindia.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/naps",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-128",
+    "scheme_number": 128,
+    "category": "General Welfare",
+    "name": "National Apprenticeship Training Scheme (NATS 2.0)",
+    "state_or_central": "Central",
+    "department": "Ministry of Education (BOAT)",
+    "benefits": "1-year paid industry apprenticeship for Engineering Graduates, Diploma holders, and General Stream Graduates with minimum monthly stipend of ₹8,000–₹9,000 (50% shared by Government via DBT).",
+    "eligibility": "Indian citizens who have passed B.Tech/BE, Diploma, or General Degree (BA/BSc/BCom) within the last 5 years.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Degree/Diploma Provisional Certificate",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Register on the NATS 2.0 portal (`nats.education.gov.in`) and apply to notified PSU/private establishments.",
+    "official_website": "https://nats.education.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/nats",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-129",
+    "scheme_number": 129,
+    "category": "General Welfare",
+    "name": "Atal Tinkering Labs (ATL – Atal Innovation Mission)",
+    "state_or_central": "Central",
+    "department": "NITI Aayog",
+    "benefits": "₹20 Lakh grant to schools to set up hands-on robotics, 3D printing, IoT, and electronics innovation labs for school students.",
+    "eligibility": "Government and private schools (Classes 6–12); benefits all students studying in ATL schools and nearby community schools.",
+    "documents_required": [
+      "School UDISE Code (for school application)."
+    ],
+    "how_to_apply": "Schools apply on `aim.gov.in`; students access free STEM kits at their school's ATL.",
+    "official_website": "https://aim.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Atal%20Tinkering%20Lab",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-130",
+    "scheme_number": 130,
+    "category": "General Welfare",
+    "name": "AP Gurukulam (APSWREIS / APTWREIS / MJPAPBCWREIS) Free Residential Schools",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Social, Tribal & BC Welfare Residential Educational Institutions Societies, AP",
+    "benefits": "100% free English-medium residential schooling (Classes 5 to 12), hostel, nutritious food, uniforms, books, and free IIT-JEE/NEET coaching.",
+    "eligibility": "SC, ST, BC, EBC, and Minority students domiciled in AP from families with annual income ≤ ₹1 Lakh, selected via AP Gurukulam entrance test (APREIS/BRAGUCET).",
+    "documents_required": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Income Certificate",
+      "Previous Class Study Certificate."
+    ],
+    "how_to_apply": "Apply online during the annual AP Gurukulam admission notification (Feb–Apr) and appear for the entrance test.",
+    "official_website": "https://apswreis.apcfss.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=AP%20Gurukulam",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-131",
+    "scheme_number": 131,
+    "category": "General Welfare",
+    "name": "Janani Suraksha Yojana (JSY)",
+    "state_or_central": "Central (Implemented across AP Govt Hospitals)",
+    "department": "National Health Mission (NHM), Ministry of Health & Family Welfare",
+    "benefits": "Cash assistance of ₹700 (rural) / ₹600 (urban) in high-performing states like AP (up to ₹1,400 in low-performing states) for institutional delivery to reduce maternal and neonatal mortality.",
+    "eligibility": "Pregnant women aged 19+ from BPL, SC, or ST families delivering in a Government hospital or accredited private facility (up to 2 live births).",
+    "documents_required": [
+      "Aadhaar Card",
+      "MCP Card",
+      "BPL/Rice Card or Caste Certificate",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Register pregnancy with your local ASHA worker or ANM at the Village Clinic / PHC.",
+    "official_website": "https://nhm.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/jsy",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-132",
+    "scheme_number": 132,
+    "category": "General Welfare",
+    "name": "Janani Shishu Suraksha Karyakram (JSSK)",
+    "state_or_central": "Central (Implemented across AP Govt Hospitals)",
+    "department": "Ministry of Health & Family Welfare",
+    "benefits": "100% free normal/C-section delivery, free drugs, free diagnostics, free blood transfusion, free diet during hospital stay, and free treatment for sick newborns up to 1 year of age.",
+    "eligibility": "All pregnant women delivering in public health institutions and all sick infants up to 1 year (no income limit).",
+    "documents_required": [
+      "MCP Card / Hospital Registration."
+    ],
+    "how_to_apply": "Walk into any Government PHC, CHC, Area Hospital, or District Hospital.",
+    "official_website": "https://nhm.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/jssk",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-133",
+    "scheme_number": 133,
+    "category": "General Welfare",
+    "name": "Rashtriya Bal Swasthya Karyakram (RBSK)",
+    "state_or_central": "Central (Implemented in AP Schools & Anganwadis)",
+    "department": "National Health Mission, Ministry of Health & Family Welfare",
+    "benefits": "Free early screening and free tertiary surgical/medical treatment for children against \"4 Ds\": Defects at birth, Deficiencies, Diseases, and Developmental delays (30+ conditions including congenital heart defects).",
+    "eligibility": "All children aged 0 to 18 years enrolled in Anganwadis and Government/Aided schools.",
+    "documents_required": [
+      "School / Anganwadi Enrollment",
+      "Aadhaar (if available)."
+    ],
+    "how_to_apply": "Mobile Health Teams visit Anganwadis and schools regularly; parents can also visit District Early Intervention Centres (DEICs) at District Hospitals.",
+    "official_website": "https://rbsk.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/rbsk",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-134",
+    "scheme_number": 134,
+    "category": "General Welfare",
+    "name": "Rashtriya Kishor Swasthya Karyakram (RKSK)",
+    "state_or_central": "Central",
+    "department": "Ministry of Health & Family Welfare",
+    "benefits": "Free adolescent health counselling, Weekly Iron & Folic Acid Supplementation (WIFS), menstrual hygiene pads at subsidized rates, and Adolescent Friendly Health Clinics (AFHCs).",
+    "eligibility": "All adolescent boys and girls aged 10 to 19 years (in-school and out-of-school).",
+    "documents_required": [
+      "None required."
+    ],
+    "how_to_apply": "Visit your nearest Adolescent Friendly Health Clinic (AFHC) at a PHC/CHC or participate via school/Anganwadi sessions.",
+    "official_website": "https://nhm.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=RKSK",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-135",
+    "scheme_number": 135,
+    "category": "General Welfare",
+    "name": "Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)",
+    "state_or_central": "Central",
+    "department": "Ministry of Health & Family Welfare",
+    "benefits": "Free, assured, specialist OB/GYN antenatal checkups, ultrasound, and lab tests on the **9th of every month** to detect and manage high-risk pregnancies.",
+    "eligibility": "All pregnant women in their 2nd or 3rd trimester across India.",
+    "documents_required": [
+      "MCP Card (if available)."
+    ],
+    "how_to_apply": "Visit any Government PHC, CHC, or District Hospital on the 9th day of any month.",
+    "official_website": "https://pmsma.mohfw.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmsma",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-136",
+    "scheme_number": 136,
+    "category": "General Welfare",
+    "name": "Nikshay Poshan Yojana (TB Patient Nutrition Support)",
+    "state_or_central": "Central",
+    "department": "Central TB Division, Ministry of Health & Family Welfare",
+    "benefits": "₹1,000 per month direct cash transfer (DBT) for nutritional support throughout the entire duration of Tuberculosis treatment, plus free TB medicines.",
+    "eligibility": "All notified Tuberculosis (TB) patients undergoing treatment in public or private hospitals registered on the Ni-kshay portal.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Passbook",
+      "TB Notification ID (Ni-kshay ID)."
+    ],
+    "how_to_apply": "Automatically enrolled when your doctor/PHC registers your TB diagnosis on the Ni-kshay portal.",
+    "official_website": "https://nikshay.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/npy",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-137",
+    "scheme_number": 137,
+    "category": "General Welfare",
+    "name": "National Programme for Control of Blindness & Visual Impairment (NPCBVI)",
+    "state_or_central": "Central",
+    "department": "Ministry of Health & Family Welfare",
+    "benefits": "Free cataract surgeries with Intraocular Lens (IOL) implants, free spectacles for school children and BPL elderly, and free treatment for glaucoma/diabetic retinopathy.",
+    "eligibility": "All citizens (especially BPL elderly and school children) needing eye care.",
+    "documents_required": [
+      "Aadhaar Card / BPL Card (for free spectacles)."
+    ],
+    "how_to_apply": "Visit the Ophthalmology wing of any Government District Hospital or authorized NGO eye camp.",
+    "official_website": "https://npcbvi.mohfw.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=NPCBVI",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-138",
+    "scheme_number": 138,
+    "category": "General Welfare",
+    "name": "Ayushman Bharat Digital Mission (ABDM – ABHA Health ID)",
+    "state_or_central": "Central",
+    "department": "National Health Authority (NHA)",
+    "benefits": "Free 14-digit unique ABHA Health ID enabling paperless hospital OPD registration (Scan & Share) and secure digital storage/sharing of lab reports and prescriptions across India.",
+    "eligibility": "Open to all residents of India.",
+    "documents_required": [
+      "Aadhaar Card or Driving License and Mobile Number."
+    ],
+    "how_to_apply": "Generate your ABHA ID online in 2 minutes at `abha.abdm.gov.in` or via the ABHA mobile app.",
+    "official_website": "https://abha.abdm.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/abdm",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-139",
+    "scheme_number": 139,
+    "category": "General Welfare",
+    "name": "e-Sanjeevani National Telemedicine Service",
+    "state_or_central": "Central",
+    "department": "Ministry of Health & Family Welfare",
+    "benefits": "100% free online video/audio doctor consultations and digital e-prescriptions from home or Ayushman Arogya Mandirs.",
+    "eligibility": "All citizens of India (no income limit).",
+    "documents_required": [
+      "Mobile Number (for OTP login)."
+    ],
+    "how_to_apply": "Log in at `esanjeevani.mohfw.gov.in` or download the eSanjeevani OPD app.",
+    "official_website": "https://esanjeevani.mohfw.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=eSanjeevani",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-140",
+    "scheme_number": 140,
+    "category": "General Welfare",
+    "name": "Tele-MANAS (National Tele Mental Health Programme – Dial 14416)",
+    "state_or_central": "Central",
+    "department": "Ministry of Health & Family Welfare",
+    "benefits": "24×7 free, confidential mental health counselling and psychiatric support in 20+ regional languages (including Telugu, Hindi, and English) via toll-free helpline 14416.",
+    "eligibility": "Open to all citizens of India experiencing stress, anxiety, depression, or emotional distress.",
+    "documents_required": [
+      "None required."
+    ],
+    "how_to_apply": "Dial **14416** or **1-800-891-4416** from any phone, or use the Tele-MANAS mobile app.",
+    "official_website": "https://telemanas.mohfw.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Tele-MANAS",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-141",
+    "scheme_number": 141,
+    "category": "General Welfare",
+    "name": "Anaemia Mukt Bharat (AMB)",
+    "state_or_central": "Central",
+    "department": "Ministry of Health & Family Welfare",
+    "benefits": "Free Iron & Folic Acid (IFA) tablets/syrup, bi-annual deworming (Albendazole), digital hemoglobin testing, and treatment for severe anemia.",
+    "eligibility": "Children (6 months–9 years), adolescents (10–19 years), pregnant/lactating women, and women of reproductive age (20–49 years).",
+    "documents_required": [
+      "None required."
+    ],
+    "how_to_apply": "Access free IFA supplements at Anganwadi Centres, Government Schools, Village Clinics, and PHCs.",
+    "official_website": "https://anemiamuktbharat.info/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Anaemia%20Mukt%20Bharat",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-142",
+    "scheme_number": 142,
+    "category": "General Welfare",
+    "name": "National Vector Borne Disease Control Programme (NVBDCP)",
+    "state_or_central": "Central",
+    "department": "Directorate General of Health Services, MoHFW",
+    "benefits": "Free rapid diagnostic testing, free medicines for Malaria, Dengue, Chikungunya, Kala-Azar, Lymphatic Filariasis, and free insecticide-treated mosquito nets in high-risk tribal/rural areas.",
+    "eligibility": "All residents of India (special focus on endemic rural and tribal districts).",
+    "documents_required": [
+      "None required."
+    ],
+    "how_to_apply": "Contact your village ASHA worker or nearest Government PHC.",
+    "official_website": "https://ncvbdc.mohfw.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=NVBDCP",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-143",
+    "scheme_number": 143,
+    "category": "General Welfare",
+    "name": "Rashtriya Arogya Nidhi (RAN)",
+    "state_or_central": "Central",
+    "department": "Ministry of Health & Family Welfare",
+    "benefits": "One-time financial assistance up to ₹15 Lakh for life-threatening diseases (cancer, heart, kidney, liver transplants) treated at Government Super-Specialty Hospitals / AIIMS.",
+    "eligibility": "BPL patients suffering from major life-threatening illnesses who are not covered under PM-JAY/state schemes for that procedure.",
+    "documents_required": [
+      "BPL/Ration Card",
+      "Income Certificate",
+      "Medical Estimate signed by the Head of Dept/Medical Superintendent of Govt Hospital."
+    ],
+    "how_to_apply": "Submit application through the Medical Superintendent of the treating Government Hospital.",
+    "official_website": "https://main.mohfw.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/ran",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-144",
+    "scheme_number": 144,
+    "category": "General Welfare",
+    "name": "Health Minister's Cancer Patient Fund (HMCPF)",
+    "state_or_central": "Central",
+    "department": "Ministry of Health & Family Welfare",
+    "benefits": "Financial assistance up to ₹2 Lakh (up to ₹5 Lakh in exceptional cases) for BPL cancer patients undergoing treatment at 27 notified Regional Cancer Centres (RCCs).",
+    "eligibility": "BPL cancer patients receiving treatment at recognized Regional Cancer Centres.",
+    "documents_required": [
+      "BPL Ration Card",
+      "Income Certificate",
+      "Doctor's Treatment Estimate from RCC."
+    ],
+    "how_to_apply": "Apply directly through the Medical Social Worker / Director of the Regional Cancer Centre.",
+    "official_website": "https://main.mohfw.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/hmcpf",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-145",
+    "scheme_number": 145,
+    "category": "General Welfare",
+    "name": "Pradhan Mantri Swasthya Suraksha Yojana (PMSSY)",
+    "state_or_central": "Central",
+    "department": "Ministry of Health & Family Welfare",
+    "benefits": "Access to affordable, world-class tertiary healthcare and super-specialty OPD/IPD services at newly established AIIMS (including **AIIMS Mangalagiri in Andhra Pradesh**) and upgraded Government Medical Colleges.",
+    "eligibility": "Open to all citizens of India.",
+    "documents_required": [
+      "Aadhaar Card / ABHA ID (for OPD registration)."
+    ],
+    "how_to_apply": "Book an OPD appointment online via the ORS portal (`ors.gov.in`) or walk into AIIMS Mangalagiri.",
+    "official_website": "https://pmssy-mohfw.nic.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=PMSSY",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-146",
+    "scheme_number": 146,
+    "category": "General Welfare",
+    "name": "One Stop Centre (Sakhi) Scheme",
+    "state_or_central": "Central (Operational in all AP Districts)",
+    "department": "Ministry of Women & Child Development (Mission Shakti)",
+    "benefits": "Free emergency shelter, medical aid, police assistance, legal counselling, and psycho-social support under one roof for women affected by violence.",
+    "eligibility": "Any woman or girl (below 18 also assisted via CWC) facing domestic violence, harassment, trafficking, or abuse—irrespective of caste, income, or marital status.",
+    "documents_required": [
+      "None required for emergency help."
+    ],
+    "how_to_apply": "Walk into your District One Stop Centre (usually near the District Government Hospital) or dial **181**.",
+    "official_website": "https://missionshakti.wcd.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/osc",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-147",
+    "scheme_number": 147,
+    "category": "General Welfare",
+    "name": "Women Helpline Scheme (Dial 181)",
+    "state_or_central": "Central (Integrated with State Police & OSCs)",
+    "department": "Ministry of Women & Child Development",
+    "benefits": "24×7 toll-free emergency response, police/ambulance linkage, and information on all government women welfare schemes.",
+    "eligibility": "Any woman or girl in distress anywhere in India.",
+    "documents_required": [
+      "None required."
+    ],
+    "how_to_apply": "Dial **181** from any mobile or landline.",
+    "official_website": "https://missionshakti.wcd.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/whl",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-148",
+    "scheme_number": 148,
+    "category": "General Welfare",
+    "name": "Shakti Sadan (Integrated Relief & Rehabilitation Home for Women)",
+    "state_or_central": "Central (Merges Swadhar Greh & Ujjawala)",
+    "department": "Ministry of Women & Child Development (Mission Shakti)",
+    "benefits": "Free safe shelter, food, clothing, medical care, legal aid, and vocational skill training for women in distress and survivors of trafficking.",
+    "eligibility": "Destitute women, widows without support, domestic violence survivors, homeless women, and rescued trafficking survivors.",
+    "documents_required": [
+      "Basic identity proof (not mandatory for emergency admission)."
+    ],
+    "how_to_apply": "Contact the District Women & Child Development Officer, One Stop Centre, or dial **181**.",
+    "official_website": "https://missionshakti.wcd.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/shakti-sadan",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-149",
+    "scheme_number": 149,
+    "category": "General Welfare",
+    "name": "Sakhi Niwas (Working Women Hostel Scheme)",
+    "state_or_central": "Central",
+    "department": "Ministry of Women & Child Development",
+    "benefits": "Safe, affordable hostel accommodation with daycare/creche facilities for working women and women undergoing job training away from home.",
+    "eligibility": "Working women (single, widowed, divorced, or married whose husband/family lives in another city) with gross monthly income ≤ ₹50,000 (metro) or ₹35,000 (non-metro).",
+    "documents_required": [
+      "Aadhaar Card",
+      "Employment / Training Proof",
+      "Income Certificate."
+    ],
+    "how_to_apply": "Apply directly at the nearest Sakhi Niwas / Working Women Hostel or through the District WCD Office.",
+    "official_website": "https://missionshakti.wcd.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/sakhi-niwas",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-150",
+    "scheme_number": 150,
+    "category": "General Welfare",
+    "name": "Palna Scheme (National Creche Scheme)",
+    "state_or_central": "Central",
+    "department": "Ministry of Women & Child Development (Mission Shakti)",
+    "benefits": "Safe daycare facilities, supplementary nutrition, growth monitoring, and early childhood care for children of working mothers at nominal/free charges.",
+    "eligibility": "Working mothers (both rural and urban, formal or informal sector) with children aged 6 months to 6 years.",
+    "documents_required": [
+      "Mother's Aadhaar Card",
+      "Child's Birth Certificate / MCP Card."
+    ],
+    "how_to_apply": "Enroll your child at the nearest Anganwadi-cum-Creche or standalone Palna Creche centre.",
+    "official_website": "https://missionshakti.wcd.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/palna",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-151",
+    "scheme_number": 151,
+    "category": "General Welfare",
+    "name": "Hub for Empowerment of Women (HEW – Sankalp)",
+    "state_or_central": "Central",
+    "department": "Ministry of Women & Child Development",
+    "benefits": "District-level guidance centres helping women access government schemes, financial literacy, legal rights, skill training, and entrepreneurship support.",
+    "eligibility": "All women and adolescent girls in the district.",
+    "documents_required": [
+      "None required for counselling/guidance."
+    ],
+    "how_to_apply": "Visit the District Hub for Empowerment of Women (DHEW) at your District Collectorate / WCD Office.",
+    "official_website": "https://missionshakti.wcd.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Hub%20for%20Empowerment%20of%20Women",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-152",
+    "scheme_number": 152,
+    "category": "General Welfare",
+    "name": "Scheme for Adolescent Girls (SAG)",
+    "state_or_central": "Central",
+    "department": "Ministry of Women & Child Development",
+    "benefits": "Free take-home nutritious food rations, iron/folic acid supplements, health checkups, and vocational/life-skills training to bring out-of-school girls back to formal education or livelihoods.",
+    "eligibility": "Out-of-school adolescent girls aged 14 to 18 years in Aspirational Districts and notified blocks.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Age Proof."
+    ],
+    "how_to_apply": "Register at your nearest Anganwadi Centre.",
+    "official_website": "https://wcd.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/sag",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-153",
+    "scheme_number": 153,
+    "category": "General Welfare",
+    "name": "PM CARES for Children Scheme",
+    "state_or_central": "Central",
+    "department": "Ministry of Women & Child Development",
+    "benefits": "₹10 Lakh corpus on turning 23 (with monthly stipend from age 18–23), free school education, ₹20,000/year scholarship, free ₹5 Lakh Ayushman health insurance, and interest-free higher education loans.",
+    "eligibility": "Children who lost both parents, surviving parent, or legal guardian to COVID-19 between March 2020 and February 2022.",
+    "documents_required": [
+      "Child's Birth Certificate",
+      "Parents' Death Certificates",
+      "District Magistrate Approval."
+    ],
+    "how_to_apply": "Managed through District Child Protection Units (DCPU) and the PM CARES for Children portal.",
+    "official_website": "https://pmcaresforchildren.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmcares",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-154",
+    "scheme_number": 154,
+    "category": "General Welfare",
+    "name": "SMILE Scheme (Support for Marginalized Individuals for Livelihood & Enterprise)",
+    "state_or_central": "Central",
+    "department": "Ministry of Social Justice & Empowerment",
+    "benefits": "Scholarships for transgender students, free gender-affirming healthcare via Ayushman Bharat TG Plus, Garima Greh shelter homes, skill training, and rehabilitation for persons engaged in begging.",
+    "eligibility": "Transgender persons holding a National Transgender ID Card and persons engaged in begging.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Transgender Certificate & ID Card (from National Portal)."
+    ],
+    "how_to_apply": "Register on the National Portal for Transgender Persons (`transgender.dosje.gov.in`).",
+    "official_website": "https://transgender.dosje.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/smile",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-155",
+    "scheme_number": 155,
+    "category": "General Welfare",
+    "name": "SHRESHTA (Residential Education for Students in High Schools in Targeted Areas)",
+    "state_or_central": "Central",
+    "department": "Ministry of Social Justice & Empowerment",
+    "benefits": "100% free school tuition and residential hostel fees (up to ₹1.35 Lakh/year) in top CBSE-affiliated private residential schools for Classes 9 to 12.",
+    "eligibility": "Meritorious SC students studying in Class 8 or Class 10 with parental annual income ≤ ₹2.5 Lakh who qualify in the NTA NETS exam.",
+    "documents_required": [
+      "Aadhaar Card",
+      "SC Caste Certificate",
+      "Income Certificate",
+      "Previous Class Marks Memo."
+    ],
+    "how_to_apply": "Apply online for the NTA SHRESHTA (NETS) entrance exam at `exams.nta.ac.in/SHRESHTA`.",
+    "official_website": "https://shreshta.dosje.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/shreshta",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-156",
+    "scheme_number": 156,
+    "category": "General Welfare",
+    "name": "Pradhan Mantri Adarsh Gram Yojana (PMAGY)",
+    "state_or_central": "Central",
+    "department": "Ministry of Social Justice & Empowerment",
+    "benefits": "Integrated village infrastructure grant (₹20 Lakh+ per village) for drinking water, roads, street lights, Anganwadis, and 100% saturation of welfare schemes in SC-majority villages.",
+    "eligibility": "Villages with > 40% Scheduled Caste population and total population ≥ 500.",
+    "documents_required": [
+      "None for citizens."
+    ],
+    "how_to_apply": "Implemented by District Social Welfare Officers and Gram Panchayats.",
+    "official_website": "https://pmagy.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pmagy",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-157",
+    "scheme_number": 157,
+    "category": "General Welfare",
+    "name": "Vanbandhu Kalyan Yojana (VKY)",
+    "state_or_central": "Central",
+    "department": "Ministry of Tribal Affairs",
+    "benefits": "Holistic tribal development funding for Eklavya Model Residential Schools (EMRS), forest-produce livelihoods, drinking water, and healthcare in tribal blocks.",
+    "eligibility": "Scheduled Tribe communities residing in notified tribal blocks/ITDA areas.",
+    "documents_required": [
+      "ST Caste Certificate (for individual beneficiary components like EMRS admission)."
+    ],
+    "how_to_apply": "Contact your local Integrated Tribal Development Agency (ITDA) office.",
+    "official_website": "https://tribal.nic.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Vanbandhu%20Kalyan%20Yojana",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-158",
+    "scheme_number": 158,
+    "category": "General Welfare",
+    "name": "PM-JANMAN (Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan)",
+    "state_or_central": "Central (Active in AP PVTG Habitations)",
+    "department": "Ministry of Tribal Affairs (with 9 Line Ministries)",
+    "benefits": "Targeted saturation of pucca houses (₹2.39 Lakh), piped water, solar electricity, mobile medical units, Van Dhan Vikas Kendras, and road connectivity for Particularly Vulnerable Tribal Groups (PVTGs).",
+    "eligibility": "Members of the 75 notified PVTG communities (such as Chenchu, Savara, Kondareddi, Gadaba, Yanadi/sub-groups in AP).",
+    "documents_required": [
+      "Aadhaar Card",
+      "ST/PVTG Certificate."
+    ],
+    "how_to_apply": "Enrolled via doorstep saturation camps conducted by ITDA and Grama Sachivalayams.",
+    "official_website": "https://tribal.nic.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=PM-JANMAN",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-159",
+    "scheme_number": 159,
+    "category": "General Welfare",
+    "name": "Dr. Ambedkar Scheme for Social Integration through Inter-Caste Marriages",
+    "state_or_central": "Central",
+    "department": "Dr. Ambedkar Foundation, Ministry of Social Justice & Empowerment",
+    "benefits": "₹2.5 Lakh financial incentive (₹1.5 Lakh via RTGS + ₹1 Lakh in 3-year fixed deposit) to promote social integration.",
+    "eligibility": "Newly married couples where one spouse is from a Scheduled Caste (SC) and the other is from a Non-SC community; first marriage registered under Hindu Marriage Act; must apply within 1 year of marriage.",
+    "documents_required": [
+      "Marriage Registration Certificate",
+      "Caste Certificates",
+      "Aadhaar Cards",
+      "Joint Bank Account Passbook."
+    ],
+    "how_to_apply": "Submit application recommended by an MP/MLA or District Collector/District Social Welfare Officer to Dr. Ambedkar Foundation.",
+    "official_website": "https://ambedkarfoundation.nic.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/das-icm",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-160",
+    "scheme_number": 160,
+    "category": "General Welfare",
+    "name": "AP Chandranna Pelli Kanuka (Marriage Financial Assistance)",
+    "state_or_central": "State (Andhra Pradesh)",
+    "department": "Social, Tribal, BC, Minority & Differently Abled Welfare Departments, AP",
+    "benefits": "Direct financial marriage assistance (₹40,000 to ₹1,00,000 depending on SC/ST/BC/Minority/Disabled/Inter-caste category) credited to the bride's/mother's account.",
+    "eligibility": "BPL brides domiciled in Andhra Pradesh aged 18+ (groom aged 21+), Class 10 pass (where applicable), with AP Rice Card.",
+    "documents_required": [
+      "Bride & Groom Aadhaar Cards",
+      "Age Proof / SSC Memo",
+      "Caste Certificate",
+      "Marriage Registration Certificate",
+      "AP Rice Card",
+      "Bank Passbook."
+    ],
+    "how_to_apply": "Register before or within the notified window after marriage at your Grama/Ward Sachivalayam.",
+    "official_website": "https://gsws-nbm.ap.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Pelli%20Kanuka%20Andhra%20Pradesh",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-161",
+    "scheme_number": 161,
+    "category": "General Welfare",
+    "name": "Kisan Vikas Patra (KVP)",
+    "state_or_central": "Central",
+    "department": "Department of Posts, Ministry of Finance",
+    "benefits": "Safe, sovereign-guaranteed savings certificate that doubles your lump-sum investment in 115 months (9 years 7 months at 7.5% p.a. compounded annually); no upper investment limit.",
+    "eligibility": "Any resident Indian adult (single or joint) or guardian on behalf of a minor.",
+    "documents_required": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Passport Size Photo."
+    ],
+    "how_to_apply": "Purchase at any India Post Office or authorized bank branch starting from ₹1,000.",
+    "official_website": "https://www.indiapost.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/kvp",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-162",
+    "scheme_number": 162,
+    "category": "General Welfare",
+    "name": "National Savings Certificate (NSC VIII Issue)",
+    "state_or_central": "Central",
+    "department": "Department of Posts, Ministry of Finance",
+    "benefits": "5-year government-backed fixed-income investment earning 7.7% p.a. compounded annually, eligible for Section 80C income tax deduction up to ₹1.5 Lakh/year.",
+    "eligibility": "Resident Indian citizens (individuals/joint/minors).",
+    "documents_required": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Passport Size Photo."
+    ],
+    "how_to_apply": "Open an NSC account at any Post Office or via India Post Internet Banking.",
+    "official_website": "https://www.indiapost.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/nsc",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-163",
+    "scheme_number": 163,
+    "category": "General Welfare",
+    "name": "Mahila Samman Savings Certificate (MSSC)",
+    "state_or_central": "Central",
+    "department": "Ministry of Finance (via India Post & Authorized Banks)",
+    "benefits": "Short-term 2-year sovereign-backed deposit scheme for women offering 7.5% p.a. quarterly compounded interest on deposits from ₹1,000 up to ₹2 Lakh, with partial withdrawal option after 1 year.",
+    "eligibility": "Any Indian woman or guardian on behalf of a minor girl child.",
+    "documents_required": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Passport Size Photo."
+    ],
+    "how_to_apply": "Open at any Post Office or participating public/private sector bank branch.",
+    "official_website": "https://www.indiapost.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/mssc",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-164",
+    "scheme_number": 164,
+    "category": "General Welfare",
+    "name": "Post Office Monthly Income Scheme (POMIS)",
+    "state_or_central": "Central",
+    "department": "Department of Posts, Ministry of Finance",
+    "benefits": "Guaranteed monthly interest payout (7.4% p.a.) over a 5-year tenure; maximum deposit ₹9 Lakh (single account) or ₹15 Lakh (joint account).",
+    "eligibility": "Any resident Indian citizen (ideal for retirees and homemakers seeking regular monthly income).",
+    "documents_required": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Post Office Savings Account."
+    ],
+    "how_to_apply": "Visit your nearest India Post Office and submit the POMIS account opening form.",
+    "official_website": "https://www.indiapost.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/pomis",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-165",
+    "scheme_number": 165,
+    "category": "General Welfare",
+    "name": "Sovereign Gold Bond (SGB) Scheme",
+    "state_or_central": "Central",
+    "department": "Reserve Bank of India (RBI), Ministry of Finance",
+    "benefits": "Government-backed gold investment denominated in grams of 999 purity gold, paying 2.5% p.a. extra interest semi-annually, with 100% capital gains tax exemption on maturity (8 years).",
+    "eligibility": "Resident Indian individuals, HUFs, Trusts, and Universities (minimum 1 gram, max 4 kg per fiscal year).",
+    "documents_required": [
+      "PAN Card",
+      "Aadhaar Card",
+      "Bank/Demat Account."
+    ],
+    "how_to_apply": "Apply during RBI subscription tranches via net banking, Post Offices, or stockbrokers.",
+    "official_website": "https://www.rbi.org.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Sovereign%20Gold%20Bond",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-166",
+    "scheme_number": 166,
+    "category": "General Welfare",
+    "name": "Production Linked Incentive (PLI) Scheme",
+    "state_or_central": "Central",
+    "department": "DPIIT & Respective Line Ministries",
+    "benefits": "4% to 6% direct financial incentives on incremental sales of goods manufactured in India across 14 strategic sectors (electronics, pharma, textiles, solar PV, drones, food processing, automobiles).",
+    "eligibility": "Domestic and global manufacturing companies meeting sector-specific minimum investment and incremental sales thresholds.",
+    "documents_required": [
+      "Company Incorporation",
+      "GST",
+      "Audited Financials",
+      "Investment Plan."
+    ],
+    "how_to_apply": "Apply online through the respective sector's Project Management Agency (PMA) portal when application windows open.",
+    "official_website": "https://www.investindia.gov.in/production-linked-incentives-schemes-india",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=PLI%20Scheme",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-167",
+    "scheme_number": 167,
+    "category": "General Welfare",
+    "name": "MSME Samadhaan (Delayed Payment Monitoring Portal)",
+    "state_or_central": "Central",
+    "department": "Ministry of Micro, Small & Medium Enterprises (MSME)",
+    "benefits": "Fast-track legal recourse for Micro and Small Enterprises to recover delayed payments (beyond 45 days) with compound interest at 3× RBI bank rate through MSE Facilitation Councils (MSEFC).",
+    "eligibility": "Any Udyam-registered Micro or Small Enterprise facing unpaid invoices from buyers (private or PSU/Govt).",
+    "documents_required": [
+      "Udyam Registration Certificate",
+      "Work Order / Purchase Order",
+      "Invoices",
+      "Delivery Proof."
+    ],
+    "how_to_apply": "File a delayed payment application online at `samadhaan.msme.gov.in`.",
+    "official_website": "https://samadhaan.msme.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=MSME%20Samadhaan",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-168",
+    "scheme_number": 168,
+    "category": "General Welfare",
+    "name": "Udyam Registration & Udyam Assist Platform (UAP)",
+    "state_or_central": "Central",
+    "department": "Ministry of MSME",
+    "benefits": "Free, instant lifetime MSME certificate unlocking priority-sector bank loans, collateral-free CGTMSE credit, government tender preferences, and state industrial subsidies.",
+    "eligibility": "All Micro, Small, and Medium Enterprises (manufacturing or services) and Informal Micro Enterprises (via UAP).",
+    "documents_required": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Bank Account Details (GSTIN if applicable)."
+    ],
+    "how_to_apply": "Self-register free of cost in 5 minutes on `udyamregistration.gov.in`.",
+    "official_website": "https://udyamregistration.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/udyam",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-169",
+    "scheme_number": 169,
+    "category": "General Welfare",
+    "name": "MSME Sustainable (ZED – Zero Defect Zero Effect) Certification Scheme",
+    "state_or_central": "Central",
+    "department": "Ministry of MSME",
+    "benefits": "Up to 80% subsidy (Micro), 60% (Small), 50% (Medium) plus extra 10% for Women/SC/ST MSMEs on Bronze, Silver, and Gold quality certifications, plus ₹10,000 joining reward and bank interest concessions.",
+    "eligibility": "All Udyam-registered manufacturing MSMEs.",
+    "documents_required": [
+      "Udyam Registration Certificate",
+      "Business KYC."
+    ],
+    "how_to_apply": "Take the free ZED Pledge and apply online at `zed.msme.gov.in`.",
+    "official_website": "https://zed.msme.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/zed",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-170",
+    "scheme_number": 170,
+    "category": "General Welfare",
+    "name": "SFURTI (Scheme of Fund for Regeneration of Traditional Industries)",
+    "state_or_central": "Central",
+    "department": "Ministry of MSME",
+    "benefits": "Up to ₹2.5 Crore (Regular Cluster, up to 500 artisans) or ₹5 Crore (Major Cluster, > 500 artisans) grant for Common Facility Centres, modern machinery, design, and market branding.",
+    "eligibility": "Traditional artisan clusters (handloom, khadi, coir, pottery, Kalamkari, Kondapalli toys, bamboo) represented by NGOs, cooperatives, or SHG federations.",
+    "documents_required": [
+      "Cluster Diagnostic Study Report",
+      "Implementing Agency Registration",
+      "Artisan List."
+    ],
+    "how_to_apply": "Submit cluster proposals online via the SFURTI portal through Nodal Agencies (KVIC / Coir Board / IIE).",
+    "official_website": "https://sfurti.msme.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/sfurti",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-171",
+    "scheme_number": 171,
+    "category": "General Welfare",
+    "name": "ASPIRE (Promotion of Innovation, Rural Industries & Entrepreneurship)",
+    "state_or_central": "Central",
+    "department": "Ministry of MSME",
+    "benefits": "Grant up to ₹1 Crore for setting up Livelihood Business Incubators (LBIs) to train rural youth in agro-based and rural micro-enterprises.",
+    "eligibility": "Government/private training institutes, universities, and NGOs (rural youth benefit from free/subsidized incubation & skilling).",
+    "documents_required": [
+      "Institute Registration",
+      "DPR (for LBIs); Aadhaar for trainees."
+    ],
+    "how_to_apply": "Apply online on the ASPIRE portal (`aspire.msme.gov.in`).",
+    "official_website": "https://aspire.msme.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/aspire",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-172",
+    "scheme_number": 172,
+    "category": "General Welfare",
+    "name": "Credit Linked Capital Subsidy & Technology Upgradation Scheme (CLCS-TUS)",
+    "state_or_central": "Central",
+    "department": "Ministry of MSME",
+    "benefits": "15% upfront capital subsidy (up to ₹15 Lakh on machinery loans up to ₹1 Crore) for upgrading to modern, well-established manufacturing technology.",
+    "eligibility": "Micro and Small Enterprises (MSEs) upgrading existing machinery or setting up new units with approved technology.",
+    "documents_required": [
+      "Udyam Certificate",
+      "Term Loan Sanction Letter",
+      "Machinery Invoices."
+    ],
+    "how_to_apply": "Apply through your Primary Lending Institution (Bank/SIDBI) on the MSME Champions portal.",
+    "official_website": "https://champions.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/clcss",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-173",
+    "scheme_number": 173,
+    "category": "General Welfare",
+    "name": "National Career Service (NCS) Portal",
+    "state_or_central": "Central",
+    "department": "Ministry of Labour & Employment",
+    "benefits": "Free job matching with verified private/government employers, online skill courses (Microsoft/TCS iON), career counselling, and Model Career Centre job fairs.",
+    "eligibility": "All job seekers, students, and employers across India.",
+    "documents_required": [
+      "Aadhaar / UAN / PAN (for profile verification) and Resume."
+    ],
+    "how_to_apply": "Register free of cost on `ncs.gov.in` or visit your District Employment Exchange / Model Career Centre.",
+    "official_website": "https://www.ncs.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=National%20Career%20Service",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-174",
+    "scheme_number": 174,
+    "category": "General Welfare",
+    "name": "Employees' State Insurance (ESI) Scheme",
+    "state_or_central": "Central",
+    "department": "Employees' State Insurance Corporation (ESIC), Ministry of Labour",
+    "benefits": "Full free medical care for worker and family, 70%–90% cash sickness/disablement benefit, 26 weeks paid maternity benefit, and monthly dependent pension on work-related death.",
+    "eligibility": "Employees earning gross monthly wages up to ₹21,000 (₹25,000 for PwDs) working in factories/establishments with 10+ workers.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Family Details",
+      "Bank Account",
+      "Employer Registration."
+    ],
+    "how_to_apply": "Enrolled by employer on the ESIC portal; download your e-Pehchan card to avail ESIC hospital services.",
+    "official_website": "https://www.esic.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=ESIC",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-175",
+    "scheme_number": 175,
+    "category": "General Welfare",
+    "name": "Employees' Provident Fund (EPF) & EDLI Insurance Scheme",
+    "state_or_central": "Central",
+    "department": "Employees' Provident Fund Organisation (EPFO)",
+    "benefits": "Tax-free retirement savings (8.25% interest p.a. approx.), monthly EPS-95 pension after 10 years of service, and free EDLI life insurance cover up to ₹7 Lakh for the employee's family.",
+    "eligibility": "Salaried employees in establishments with 20+ workers (mandatory for basic wage ≤ ₹15,000/month; voluntary above).",
+    "documents_required": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Bank Account linked to UAN."
+    ],
+    "how_to_apply": "Employer generates your Universal Account Number (UAN); manage passbook, nominations, and withdrawals via the EPFO portal or UMANG app.",
+    "official_website": "https://www.epfindia.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=EPFO",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-176",
+    "scheme_number": 176,
+    "category": "General Welfare",
+    "name": "AMRUT 2.0 (Atal Mission for Rejuvenation and Urban Transformation)",
+    "state_or_central": "Central (Active in AP Municipalities & Corporations)",
+    "department": "Ministry of Housing and Urban Affairs (MoHUA)",
+    "benefits": "100% functional tap water connections to urban households, sewerage/septage management, rejuvenation of urban water bodies, and green parks.",
+    "eligibility": "Residents of all statutory towns and cities across India (4,800+ ULBs).",
+    "documents_required": [
+      "Property Tax / Urban Household ID (for new tap connection)."
+    ],
+    "how_to_apply": "Apply for municipal tap/sewerage connections via your Ward Sachivalayam or Municipal Corporation portal.",
+    "official_website": "https://mohua.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/amrut",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-177",
+    "scheme_number": 177,
+    "category": "General Welfare",
+    "name": "Smart Cities Mission",
+    "state_or_central": "Central (Includes Visakhapatnam, Kakinada, Tirupati & Amaravati in AP)",
+    "department": "Ministry of Housing and Urban Affairs (MoHUA)",
+    "benefits": "Smart integrated command & control centres (CCTV safety), smart street lighting, pedestrian footpaths, cycle tracks, solar public buildings, and digital civic services.",
+    "eligibility": "Residents of the 100 selected Smart Cities across India.",
+    "documents_required": [
+      "None for citizens."
+    ],
+    "how_to_apply": "Implemented by city Special Purpose Vehicles (SPVs); citizens can access services via city smart-citizen apps.",
+    "official_website": "https://smartcities.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Smart%20Cities%20Mission",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-178",
+    "scheme_number": 178,
+    "category": "General Welfare",
+    "name": "HRIDAY (Heritage City Development and Augmentation Yojana)",
+    "state_or_central": "Central (Includes **Amaravati** in Andhra Pradesh)",
+    "department": "Ministry of Housing and Urban Affairs (MoHUA)",
+    "benefits": "Conservation of heritage monuments, improved civic infrastructure (roads, signage, lighting, sanitation), and tourism livelihoods around historic heritage zones.",
+    "eligibility": "Citizens, artisans, and tourism workers in the 12 notified heritage cities (including Amaravati, AP).",
+    "documents_required": [
+      "None for citizens."
+    ],
+    "how_to_apply": "Implemented by State Urban Development and Heritage Authorities.",
+    "official_website": "https://mohua.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=HRIDAY",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-179",
+    "scheme_number": 179,
+    "category": "General Welfare",
+    "name": "PRASHAD Scheme (Pilgrimage Rejuvenation & Spiritual Heritage Augmentation)",
+    "state_or_central": "Central (Includes **Srisailam, Simhachalam, Annavaram & Amaravati** in AP)",
+    "department": "Ministry of Tourism, Government of India",
+    "benefits": "World-class pilgrim amenities including queue complexes, drinking water, illumination, eco-friendly transport, and interpretation centres at major pilgrimage sites.",
+    "eligibility": "All pilgrims, tourists, and local hospitality/artisan communities around notified pilgrimage destinations.",
+    "documents_required": [
+      "None for citizens."
+    ],
+    "how_to_apply": "Infrastructure is developed by the Ministry of Tourism and AP Tourism Development Corporation (APTDC).",
+    "official_website": "https://tourism.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=PRASHAD",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-180",
+    "scheme_number": 180,
+    "category": "General Welfare",
+    "name": "Swadesh Darshan 2.0 Scheme",
+    "state_or_central": "Central (Includes **Araku–Lambasingi & Gandikota** in AP)",
+    "department": "Ministry of Tourism, Government of India",
+    "benefits": "Sustainable destination-centric eco-tourism and adventure tourism infrastructure creating local homestay, guide, and craft employment.",
+    "eligibility": "Local communities, homestay owners, and tourists in notified tourism circuits.",
+    "documents_required": [
+      "None for tourists (State tourism registration for homestays)."
+    ],
+    "how_to_apply": "Contact AP Tourism (APTDC) for homestay/guide registration under Swadesh Darshan 2.0.",
+    "official_website": "https://swadeshdarshan.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=Swadesh%20Darshan",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-181",
+    "scheme_number": 181,
+    "category": "General Welfare",
+    "name": "UJALA (Unnat Jyoti by Affordable LEDs for All)",
+    "state_or_central": "Central",
+    "department": "Energy Efficiency Services Limited (EESL), Ministry of Power",
+    "benefits": "Subsidized, energy-efficient 9W LED bulbs, 20W LED tubelights, and 5-star BEE ceiling fans to cut household electricity bills by up to 50%.",
+    "eligibility": "All domestic electricity consumers in India.",
+    "documents_required": [
+      "Latest Electricity Bill / Aadhaar Card."
+    ],
+    "how_to_apply": "Purchase from EESL UJALA distribution kiosks, Post Offices, or DISCOM offices.",
+    "official_website": "https://www.ujala.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/ujala",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-182",
+    "scheme_number": 182,
+    "category": "General Welfare",
+    "name": "Saubhagya (Pradhan Mantri Sahaj Bijli Har Ghar Yojana)",
+    "state_or_central": "Central",
+    "department": "Ministry of Power (via State DISCOMs)",
+    "benefits": "Free domestic electricity connection (meter, service wire, and 1 LED bulb) for BPL households; ₹500 (payable in 10 monthly bill installments) for APL households.",
+    "eligibility": "Un-electrified rural and poor urban households.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Ration Card / SECC Identification",
+      "Residence Proof."
+    ],
+    "how_to_apply": "Apply at your local AP DISCOM office or Grama/Ward Sachivalayam.",
+    "official_website": "https://saubhagya.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/schemes/saubhagya",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-183",
+    "scheme_number": 183,
+    "category": "General Welfare",
+    "name": "PM-WANI (Prime Minister's Wi-Fi Access Network Interface)",
+    "state_or_central": "Central",
+    "department": "Department of Telecommunications (DoT)",
+    "benefits": "Affordable high-speed public Wi-Fi hotspots at kirana stores, tea shops, and village centres, plus zero-license-fee business opportunity for small shopkeepers to become Public Data Offices (PDOs).",
+    "eligibility": "Any citizen (to use Wi-Fi) or small shopkeeper/entrepreneur (to set up a PDO hotspot).",
+    "documents_required": [
+      "Mobile Number (for users); Aadhaar & Broadband connection (for PDOs)."
+    ],
+    "how_to_apply": "Download any PM-WANI compliant app to connect, or register as a PDO via a registered PDOA on `pmwani.gov.in`.",
+    "official_website": "https://pmwani.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=PM-WANI",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-184",
+    "scheme_number": 184,
+    "category": "General Welfare",
+    "name": "BharatNet (Rural Optical Fibre Broadband)",
+    "state_or_central": "Central (Implemented with AP FiberNet / BBNL)",
+    "department": "Department of Telecommunications (DoT)",
+    "benefits": "High-speed optical fibre internet connectivity to all Gram Panchayats, rural schools, PHCs, and affordable rural FTTH broadband connections for villagers.",
+    "eligibility": "All rural Gram Panchayats, institutions, and households in covered villages.",
+    "documents_required": [
+      "Aadhaar Card (for household FTTH connection)."
+    ],
+    "how_to_apply": "Contact your Grama Sachivalayam / Village Level Entrepreneur (VLE) or AP FiberNet operator.",
+    "official_website": "https://bbnl.nic.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=BharatNet",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-185",
+    "scheme_number": 185,
+    "category": "General Welfare",
+    "name": "DigiLocker (Authentic Digital Document Wallet)",
+    "state_or_central": "Central",
+    "department": "Ministry of Electronics & Information Technology (MeitY)",
+    "benefits": "Free 1 GB cloud storage for legally valid digital copies of Aadhaar, Driving License, Vehicle RC, SSC/Inter Marks Memos, Caste/Income Certificates, and Ration Cards (legally at par with originals under IT Act).",
+    "eligibility": "All Indian residents with an Aadhaar number or mobile number.",
+    "documents_required": [
+      "Aadhaar Card linked to Mobile Number."
+    ],
+    "how_to_apply": "Sign up free at `digilocker.gov.in` or via the DigiLocker mobile app.",
+    "official_website": "https://www.digilocker.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=DigiLocker",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-186",
+    "scheme_number": 186,
+    "category": "General Welfare",
+    "name": "UMANG (Unified Mobile Application for New-age Governance)",
+    "state_or_central": "Central",
+    "department": "NeGD, Ministry of Electronics & Information Technology (MeitY)",
+    "benefits": "Single mobile app providing access to 1,700+ Central and State government services (EPFO, DigiLocker, Gas Booking, Ration Card, Scholarships, Pension status, Soil Health Card) in 13 Indian languages including Telugu.",
+    "eligibility": "Open to all citizens of India.",
+    "documents_required": [
+      "Mobile Number (for OTP registration)."
+    ],
+    "how_to_apply": "Download the UMANG app from Google Play Store / Apple App Store or visit `web.umang.gov.in`.",
+    "official_website": "https://web.umang.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=UMANG",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-187",
+    "scheme_number": 187,
+    "category": "General Welfare",
+    "name": "PM GatiShakti National Master Plan",
+    "state_or_central": "Central",
+    "department": "Logistics Division, DPIIT, Ministry of Commerce & Industry",
+    "benefits": "GIS-based multimodal infrastructure planning integrating roads, railways, ports, airports, and logistics parks to cut logistics costs and boost industrial job creation across states.",
+    "eligibility": "State governments, infrastructure agencies, and industrial/logistics investors.",
+    "documents_required": [
+      "Not applicable for individual citizens."
+    ],
+    "how_to_apply": "State departments access the PM GatiShakti NMP portal for coordinated infrastructure clearances.",
+    "official_website": "https://pmgatishakti.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=PM%20GatiShakti",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-188",
+    "scheme_number": 188,
+    "category": "General Welfare",
+    "name": "UDAN (Ude Desh ka Aam Naagrik – Regional Connectivity Scheme)",
+    "state_or_central": "Central (Includes **Kadapa, Kurnool, Rajahmundry & Vijayawada** routes in AP)",
+    "department": "Ministry of Civil Aviation",
+    "benefits": "Capped, affordable regional airfares on underserved/unserved domestic routes to make air travel accessible to middle-class citizens.",
+    "eligibility": "All air travellers booking seats on notified RCS-UDAN routes.",
+    "documents_required": [
+      "Standard Government Photo ID for air travel."
+    ],
+    "how_to_apply": "Book tickets directly through airlines operating UDAN routes (e.g., IndiGo, Star Air, Alliance Air).",
+    "official_website": "https://www.civilaviation.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=UDAN",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-189",
+    "scheme_number": 189,
+    "category": "General Welfare",
+    "name": "PM E-DRIVE Scheme (Electric Vehicle Purchase Subsidy)",
+    "state_or_central": "Central (Successor to FAME-II)",
+    "department": "Ministry of Heavy Industries",
+    "benefits": "Direct upfront purchase subsidy (e-Voucher) on electric two-wheelers (up to ₹5,000–₹10,000), electric three-wheelers/e-rickshaws (up to ₹25,000–₹50,000), e-ambulances, and e-trucks, plus public EV fast-charging network.",
+    "eligibility": "Indian citizens and commercial fleet operators purchasing eligible EVs with advanced batteries from registered OEMs.",
+    "documents_required": [
+      "Aadhaar Card (for Aadhaar e-KYC e-Voucher)",
+      "PAN Card",
+      "Vehicle Registration Details."
+    ],
+    "how_to_apply": "The EV dealer generates your Aadhaar-authenticated PM E-DRIVE e-Voucher on the official portal at the time of purchase for instant price reduction.",
+    "official_website": "https://pmedrive.heavyindustries.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=PM%20E-DRIVE",
+    "date_collected": "19 Nov 2026"
+  },
+  {
+    "id": "ap-scheme-190",
+    "scheme_number": 190,
+    "category": "General Welfare",
+    "name": "National Green Hydrogen Mission",
+    "state_or_central": "Central (Major Green Hydrogen Hubs developing in **Visakhapatnam / Kakinada, AP**)",
+    "department": "Ministry of New & Renewable Energy (MNRE)",
+    "benefits": "Financial incentives (SIGHT programme) for electrolyser manufacturing and green hydrogen production, R&D grants, and skilled green-energy job creation.",
+    "eligibility": "Clean energy companies, electrolyser manufacturers, R&D institutions, and industrial hubs.",
+    "documents_required": [
+      "Company/Institute Registration",
+      "Technical & Financial Bids."
+    ],
+    "how_to_apply": "Participate in tenders issued by SECI / MNRE under the SIGHT and R&D components.",
+    "official_website": "https://nghm.mnre.gov.in/",
+    "myscheme_link": "https://www.myscheme.gov.in/search?q=National%20Green%20Hydrogen%20Mission",
+    "date_collected": "19 Nov 2026"
+  }
+]
